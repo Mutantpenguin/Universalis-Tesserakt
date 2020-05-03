@@ -1,0 +1,43 @@
+{
+  "ID": "3d2438c3-ea20-4495-8bc8-0b6e2c884298",
+  "Active": true,
+  "Name": "Panzerplatten Typ XL200",
+  "Description": "",
+  "Rules": null,
+  "Points": 300,
+  "Weight": 65.0,
+  "AttributeModifier": null,
+  "Potential": 6,
+  "Camouflage": 0,
+  "CamouflageLevel": 0,
+  "DamageTypeList": [
+    {
+      "Type": 1,
+      "Level": 2
+    },
+    {
+      "Type": 3,
+      "Level": 2
+    },
+    {
+      "Type": 2,
+      "Level": 1
+    },
+    {
+      "Type": 4,
+      "Level": 1
+    }
+  ],
+  "DamageEffectList": [
+    {
+      "Type": 5
+    },
+    {
+      "Type": 17
+    },
+    {
+      "Type": 9
+    }
+  ],
+  "SelfSustaining": true
+}

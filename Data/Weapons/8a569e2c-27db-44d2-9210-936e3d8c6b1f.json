@@ -1,0 +1,30 @@
+{
+  "ID": "8a569e2c-27db-44d2-9210-936e3d8c6b1f",
+  "Active": true,
+  "Name": "Zellularparalysator",
+  "Description": "",
+  "Rules": "",
+  "Weight": 80.0,
+  "Points": 200,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 4,
+  "Substance": 6,
+  "AF": 0,
+  "Radius": 8,
+  "Unwieldy": false,
+  "DamageType": {
+    "Type": 4,
+    "Level": 1
+  },
+  "DamageEffectList": [
+    {
+      "Type": 8
+    }
+  ],
+  "WeaponRange": {
+    "Length": 0,
+    "Amount": 0
+  },
+  "UseOnce": false
+}

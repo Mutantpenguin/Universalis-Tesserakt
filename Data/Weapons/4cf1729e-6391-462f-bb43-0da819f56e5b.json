@@ -1,0 +1,25 @@
+{
+  "ID": "4cf1729e-6391-462f-bb43-0da819f56e5b",
+  "Active": true,
+  "Name": "Pistole",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.9,
+  "Points": 100,
+  "WK": 1,
+  "Type": 1,
+  "Potential": 4,
+  "Substance": 2,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 1
+  },
+  "DamageEffectList": null,
+  "WeaponRange": {
+    "Length": 20,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

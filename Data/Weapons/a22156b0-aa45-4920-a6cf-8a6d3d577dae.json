@@ -1,0 +1,32 @@
+{
+  "ID": "a22156b0-aa45-4920-a6cf-8a6d3d577dae",
+  "Active": true,
+  "Name": "Bündelkanone",
+  "Description": "",
+  "Rules": null,
+  "Weight": 20.0,
+  "Points": 400,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 7,
+  "Substance": 5,
+  "AF": 1,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 4,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 2
+    },
+    {
+      "Type": 6
+    }
+  ],
+  "WeaponRange": {
+    "Length": 30,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

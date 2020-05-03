@@ -1,0 +1,10 @@
+{
+  "ID": "8fc79f02-6f64-40e2-b4d3-a1d4e9ba9046",
+  "Active": true,
+  "Name": "Verschleierungsmantel",
+  "Description": "",
+  "Rules": "Solange aktiv sehen \"Gläubige\" den Träger als Mensch an. Fällt er aus wird seine wahres Aussehen gewahr.",
+  "Points": 0,
+  "Weight": 0.8,
+  "AttributeModifier": null
+}

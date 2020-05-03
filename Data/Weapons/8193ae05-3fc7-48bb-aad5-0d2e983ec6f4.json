@@ -1,0 +1,30 @@
+{
+  "ID": "8193ae05-3fc7-48bb-aad5-0d2e983ec6f4",
+  "Active": true,
+  "Name": "MAG 200 (Freihändler TEST)",
+  "Description": "!Freihändlerwaffe!\r\nMAG=Mittleres Auto Gewehr, Munitionskapazität 200 Schuss\r\n",
+  "Rules": null,
+  "Weight": 2.0,
+  "Points": 200,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 5,
+  "Substance": 2,
+  "AF": 2,
+  "Radius": 0,
+  "Unwieldy": false,
+  "DamageType": {
+    "Type": 1,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 11
+    }
+  ],
+  "WeaponRange": {
+    "Length": 20,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

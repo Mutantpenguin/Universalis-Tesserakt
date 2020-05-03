@@ -1,0 +1,11 @@
+{
+  "ID": "f2afc860-2348-45a8-96ee-37ba02db2048",
+  "Active": true,
+  "Name": "Feld-Granate",
+  "Description": "",
+  "Rules": "Erzeugt an Zielpunkt einen Schutzfeld...blabla",
+  "Points": 250,
+  "Weight": 0.5,
+  "UseOnce": true,
+  "AttributeModifier": null
+}

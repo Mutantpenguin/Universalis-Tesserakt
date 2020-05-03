@@ -1,0 +1,56 @@
+{
+  "ID": "ea418773-b9bb-4448-9251-3f30bd664711",
+  "Active": true,
+  "Name": "Unbekannt (Rüstung für den Abgesandten)",
+  "Description": "Unbekannter Nano-Verbund-Panzer. Dies kann nur aufgrund von Ferngefechtsaufklärung gemutmast werden. Eine vielzahl von Waffentypen wurde bereits, sehr erfolglos, ausprobiert. Aber eine wirklich wirksame Waffe wurde bisher nicht gefunden.",
+  "Rules": null,
+  "Points": 1000,
+  "Weight": 30.0,
+  "AttributeModifier": {
+    "AGI": 0,
+    "BW": 0,
+    "KK": 2,
+    "HAK": 0,
+    "AFG": 0,
+    "SH": 0
+  },
+  "Potential": 9,
+  "Camouflage": 0,
+  "CamouflageLevel": 0,
+  "DamageTypeList": [
+    {
+      "Type": 1,
+      "Level": 3
+    },
+    {
+      "Type": 2,
+      "Level": 3
+    },
+    {
+      "Type": 3,
+      "Level": 2
+    },
+    {
+      "Type": 4,
+      "Level": 3
+    }
+  ],
+  "DamageEffectList": [
+    {
+      "Type": 15
+    },
+    {
+      "Type": 11
+    },
+    {
+      "Type": 7
+    },
+    {
+      "Type": 4
+    },
+    {
+      "Type": 1
+    }
+  ],
+  "SelfSustaining": true
+}

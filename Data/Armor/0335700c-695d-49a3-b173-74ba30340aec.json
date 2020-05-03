@@ -1,0 +1,51 @@
+{
+  "ID": "0335700c-695d-49a3-b173-74ba30340aec",
+  "Active": true,
+  "Name": "Jupiter IX",
+  "Description": "Die Fertigung eines JUPITER IX ist nicht nur unglaublich aufwendig und teuer, sie benötigt auch die Genehmigung und Hilfe des Protektorats. Die Stückzahl dieser beeindruckenden Rüstungen kann an wenigen Händen angezählt werden. AM Rande ist auch von den Unterhaltskosten lieber ganz zu schweigen.",
+  "Rules": null,
+  "Points": 900,
+  "Weight": 200.0,
+  "AttributeModifier": {
+    "AGI": 2,
+    "BW": 2,
+    "KK": 2,
+    "HAK": 2,
+    "AFG": 2,
+    "SH": 1
+  },
+  "Potential": 8,
+  "DamageTypeList": [
+    {
+      "Type": 1,
+      "Level": 2
+    },
+    {
+      "Type": 3,
+      "Level": 2
+    },
+    {
+      "Type": 2,
+      "Level": 1
+    },
+    {
+      "Type": 4,
+      "Level": 2
+    }
+  ],
+  "DamageEffectList": [
+    {
+      "Type": 12
+    },
+    {
+      "Type": 7
+    },
+    {
+      "Type": 4
+    },
+    {
+      "Type": 11
+    }
+  ],
+  "SelfSustaining": true
+}

@@ -1,0 +1,14 @@
+{
+  "ID": "03271caf-71a4-4f05-b8e1-2460390111df",
+  "Active": true,
+  "Name": "Beidhändigkeit",
+  "Description": "",
+  "Rules": "Kann mit einer Aktion gleichzeitig 2 Waffen der Klasse I abfeuern.",
+  "Type": "+",
+  "TraitLevelList": [
+    {
+      "Level": 0,
+      "Points": 50
+    }
+  ]
+}

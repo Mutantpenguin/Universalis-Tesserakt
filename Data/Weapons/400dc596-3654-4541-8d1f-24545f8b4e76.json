@@ -1,0 +1,29 @@
+{
+  "ID": "400dc596-3654-4541-8d1f-24545f8b4e76",
+  "Active": true,
+  "Name": "Splittergranate",
+  "Description": "",
+  "Rules": null,
+  "Weight": 0.45,
+  "Points": 0,
+  "WK": 1,
+  "Type": 3,
+  "Potential": 4,
+  "Substance": 2,
+  "AF": 0,
+  "Radius": 6,
+  "DamageType": {
+    "Type": 2,
+    "Level": 1
+  },
+  "DamageEffectList": [
+    {
+      "Type": 14
+    }
+  ],
+  "WeaponRange": {
+    "Length": 10,
+    "Amount": 1
+  },
+  "UseOnce": true
+}

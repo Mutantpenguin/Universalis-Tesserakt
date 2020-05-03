@@ -1,0 +1,11 @@
+{
+  "ID": "ef923845-8419-4be6-8fa3-ced58f5d43db",
+  "Active": true,
+  "Name": "Tragegestell",
+  "Description": "",
+  "Rules": "",
+  "Points": 30,
+  "Weight": -15.0,
+  "UseOnce": false,
+  "AttributeModifier": null
+}

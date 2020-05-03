@@ -1,0 +1,31 @@
+{
+  "ID": "ddcbc9a7-7678-4c0e-a84d-38596b806440",
+  "Name": "Vibro-Katana",
+  "Description": "",
+  "Rules": null,
+  "Weight": 0.9,
+  "Points": 100,
+  "WK": 2,
+  "Type": 2,
+  "Potential": 4,
+  "AdditivePotential": false,
+  "Substance": 3,
+  "AF": 0,
+  "Radius": 0,
+  "Unwieldy": false,
+  "IndirectFire": false,
+  "DamageType": {
+    "Type": 3,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 15
+    }
+  ],
+  "WeaponRange": {
+    "Length": 0,
+    "Amount": 0
+  },
+  "UseOnce": false
+}

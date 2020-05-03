@@ -1,0 +1,30 @@
+{
+  "ID": "ddff2a3c-3e6d-4bb9-879e-0c9be6717042",
+  "Active": true,
+  "Name": "Blitzdings",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.5,
+  "Points": 100,
+  "WK": 4,
+  "Type": 1,
+  "Potential": 6,
+  "Substance": 6,
+  "AF": 0,
+  "Radius": 10,
+  "Unwieldy": false,
+  "DamageType": {
+    "Type": 4,
+    "Level": 3
+  },
+  "DamageEffectList": [
+    {
+      "Type": 8
+    }
+  ],
+  "WeaponRange": {
+    "Length": 0,
+    "Amount": 0
+  },
+  "UseOnce": true
+}

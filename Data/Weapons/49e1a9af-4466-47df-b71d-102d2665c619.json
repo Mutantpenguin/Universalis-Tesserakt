@@ -1,0 +1,29 @@
+{
+  "ID": "49e1a9af-4466-47df-b71d-102d2665c619",
+  "Active": true,
+  "Name": "Maschinengewehr PK U300",
+  "Description": "",
+  "Rules": "",
+  "Weight": 21.0,
+  "Points": 250,
+  "WK": 3,
+  "Type": 1,
+  "Potential": 5,
+  "Substance": 3,
+  "AF": 2,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 12
+    }
+  ],
+  "WeaponRange": {
+    "Length": 46,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

@@ -1,0 +1,17 @@
+{
+  "ID": "5a7438ba-c1a2-467a-9bce-ae8644073d03",
+  "Active": true,
+  "Name": "GAC (Gefechts-Analyse-Computer)",
+  "Description": "Ein GAC schaltet verschiedene Ausrüstunggegenstände frei. (z.B. einen Waffen-Link)",
+  "Rules": null,
+  "Points": 99,
+  "Weight": 0.9,
+  "AttributeModifier": {
+    "AGI": 0,
+    "BW": 0,
+    "KK": 0,
+    "HAK": 0,
+    "AFG": 2,
+    "SH": 0
+  }
+}

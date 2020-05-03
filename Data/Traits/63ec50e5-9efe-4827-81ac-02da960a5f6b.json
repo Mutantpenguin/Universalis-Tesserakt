@@ -1,0 +1,22 @@
+{
+  "ID": "63ec50e5-9efe-4827-81ac-02da960a5f6b",
+  "Active": true,
+  "Name": "Gruppenführer",
+  "Description": "",
+  "Rules": "Kann zum Festlegen der Zugreihenfolge die AGI eines Mitglieds seiner Gruppe um [LVL] Punkt(e) erhöhen oder senken.\r\n\r\nBei optionaler Reihenfolge:\r\nPro Runde erhält der Spieler [LVL]W12, mit denen er die Chancen beim Auswürfeln der Reihenfolge verbessern kann, indem das beste Wurfergebnis auf die AGI addiert wird.",
+  "Type": "+",
+  "TraitLevelList": [
+    {
+      "Level": 1,
+      "Points": 30
+    },
+    {
+      "Level": 2,
+      "Points": 50
+    },
+    {
+      "Level": 3,
+      "Points": 70
+    }
+  ]
+}

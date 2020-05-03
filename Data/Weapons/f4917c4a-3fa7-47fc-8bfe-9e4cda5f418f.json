@@ -1,0 +1,32 @@
+{
+  "ID": "f4917c4a-3fa7-47fc-8bfe-9e4cda5f418f",
+  "Active": true,
+  "Name": "Zertrümmerer",
+  "Description": "",
+  "Rules": null,
+  "Weight": 90.0,
+  "Points": 700,
+  "WK": 1,
+  "Type": 2,
+  "Potential": 6,
+  "Substance": 8,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 2,
+    "Level": 3
+  },
+  "DamageEffectList": [
+    {
+      "Type": 12
+    },
+    {
+      "Type": 17
+    }
+  ],
+  "WeaponRange": {
+    "Length": 0,
+    "Amount": 0
+  },
+  "UseOnce": false
+}

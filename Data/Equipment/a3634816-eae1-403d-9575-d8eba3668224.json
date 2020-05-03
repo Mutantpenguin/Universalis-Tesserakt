@@ -1,0 +1,11 @@
+{
+  "ID": "a3634816-eae1-403d-9575-d8eba3668224",
+  "Active": true,
+  "Name": "Energiedämpfer I",
+  "Description": "",
+  "Rules": "Ein getarntes Modell wird bei Benutzung von Waffen der Klasse I nicht automatisch aufgeklärt.",
+  "Points": 50,
+  "Weight": 0.5,
+  "UseOnce": false,
+  "AttributeModifier": null
+}

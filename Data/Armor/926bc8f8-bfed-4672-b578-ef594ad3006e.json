@@ -1,0 +1,29 @@
+{
+  "ID": "926bc8f8-bfed-4672-b578-ef594ad3006e",
+  "Active": true,
+  "Name": "Schutzrüstung Klasse γ",
+  "Description": "",
+  "Rules": "",
+  "Points": 50,
+  "Weight": 14.0,
+  "AttributeModifier": null,
+  "Potential": 5,
+  "Camouflage": 0,
+  "CamouflageLevel": 0,
+  "DamageTypeList": [
+    {
+      "Type": 1,
+      "Level": 2
+    },
+    {
+      "Type": 3,
+      "Level": 1
+    }
+  ],
+  "DamageEffectList": [
+    {
+      "Type": 5
+    }
+  ],
+  "SelfSustaining": false
+}

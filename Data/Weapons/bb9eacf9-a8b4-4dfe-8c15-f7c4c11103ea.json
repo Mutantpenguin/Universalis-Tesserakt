@@ -1,0 +1,29 @@
+{
+  "ID": "bb9eacf9-a8b4-4dfe-8c15-f7c4c11103ea",
+  "Active": true,
+  "Name": "Schrapnell Nadler",
+  "Description": "",
+  "Rules": null,
+  "Weight": 0.9,
+  "Points": 100,
+  "WK": 1,
+  "Type": 1,
+  "Potential": 3,
+  "Substance": 1,
+  "AF": 1,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 3,
+    "Level": 1
+  },
+  "DamageEffectList": [
+    {
+      "Type": 14
+    }
+  ],
+  "WeaponRange": {
+    "Length": 10,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

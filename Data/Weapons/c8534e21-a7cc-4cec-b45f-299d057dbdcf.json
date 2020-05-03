@@ -1,0 +1,29 @@
+{
+  "ID": "c8534e21-a7cc-4cec-b45f-299d057dbdcf",
+  "Active": true,
+  "Name": "Elektrowerfer",
+  "Description": "",
+  "Rules": null,
+  "Weight": 15.0,
+  "Points": 350,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 5,
+  "Substance": 3,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 4,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 3
+    }
+  ],
+  "WeaponRange": {
+    "Length": 10,
+    "Amount": 4
+  },
+  "UseOnce": false
+}

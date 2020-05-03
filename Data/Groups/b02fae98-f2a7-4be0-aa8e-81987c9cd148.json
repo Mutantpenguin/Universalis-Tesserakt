@@ -1,0 +1,58 @@
+{
+  "ID": "b02fae98-f2a7-4be0-aa8e-81987c9cd148",
+  "Active": true,
+  "Name": "For The Horde!",
+  "Description": null,
+  "Icon": "/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADkAOQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD5/ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD//Z",
+  "Faction": "05ba4bf9-51e6-4723-989f-8b55923a066e",
+  "GroupActorList": [
+    {
+      "ID": "ffc7fd8c-c57a-43c0-9920-5ba43f70b0ee",
+      "CustomName": "Hans",
+      "Actor": "d4fa998e-606c-4101-8b4d-5af0abb29cd8",
+      "ActorOutfit": "622b43de-e3af-429b-a7fa-3a8aa7d07c92"
+    },
+    {
+      "ID": "f5325096-2a17-4406-952f-7484590c1716",
+      "CustomName": "Franz",
+      "Actor": "d4fa998e-606c-4101-8b4d-5af0abb29cd8",
+      "ActorOutfit": "622b43de-e3af-429b-a7fa-3a8aa7d07c92"
+    },
+    {
+      "ID": "b17336fd-afd6-461b-8d51-cc4c43724283",
+      "CustomName": null,
+      "Actor": "809158d0-d89e-45b5-886b-b6369b106d0f",
+      "ActorOutfit": "1189ae07-4308-4090-98a6-b5baab7e2b34"
+    },
+    {
+      "ID": "9a35189c-0598-45ef-819c-6f85307d9a82",
+      "CustomName": null,
+      "Actor": "6bd674fe-b350-4427-ad9c-606f96b0d353",
+      "ActorOutfit": "8d4f6ba0-88bf-492d-9066-d0cd89c246f9"
+    },
+    {
+      "ID": "b592b92f-e60e-4ddb-955f-df1bf15dccdc",
+      "CustomName": "Udo",
+      "Actor": "84aad2a3-9122-459c-9bc4-b0a1fe6efab3",
+      "ActorOutfit": "7dc838d1-80f2-4e56-a417-160ff24404f4"
+    },
+    {
+      "ID": "a0a090a2-bb8e-4a6f-a14f-a3a7d22dae62",
+      "CustomName": null,
+      "Actor": "84aad2a3-9122-459c-9bc4-b0a1fe6efab3",
+      "ActorOutfit": "7dc838d1-80f2-4e56-a417-160ff24404f4"
+    },
+    {
+      "ID": "f3a0ba74-6400-4e08-93dc-14aafa0797df",
+      "CustomName": "Herbert",
+      "Actor": "84aad2a3-9122-459c-9bc4-b0a1fe6efab3",
+      "ActorOutfit": "f319dfc9-c142-4480-a089-870f8b0af057"
+    },
+    {
+      "ID": "c7484146-8bce-4842-816a-b021c3108839",
+      "CustomName": null,
+      "Actor": "84aad2a3-9122-459c-9bc4-b0a1fe6efab3",
+      "ActorOutfit": "b4f32969-63ef-4ca8-9311-246ede5aea1f"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "ID": "e2f95d65-171a-422a-9af9-bfce30e04199",
+  "Name": "Zäh",
+  "Description": "",
+  "Rules": "Jeder Substanzverlust wird um 1 verringert.\r\n",
+  "Type": "+",
+  "TraitLevelList": [
+    {
+      "Level": 0,
+      "Points": 150
+    }
+  ]
+}

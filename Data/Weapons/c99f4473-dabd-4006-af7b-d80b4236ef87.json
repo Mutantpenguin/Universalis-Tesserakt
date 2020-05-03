@@ -1,0 +1,26 @@
+{
+  "ID": "c99f4473-dabd-4006-af7b-d80b4236ef87",
+  "Active": true,
+  "Name": "Bitte Namen eingeben",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.0,
+  "Points": 0,
+  "WK": 1,
+  "Type": 1,
+  "Potential": 1,
+  "Substance": 1,
+  "AF": 0,
+  "Radius": 0,
+  "Unwieldy": false,
+  "DamageType": {
+    "Type": 1,
+    "Level": 1
+  },
+  "DamageEffectList": null,
+  "WeaponRange": {
+    "Length": 10,
+    "Amount": 1
+  },
+  "UseOnce": false
+}

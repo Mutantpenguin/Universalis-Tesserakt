@@ -1,0 +1,33 @@
+{
+  "ID": "b6c0ed9a-8338-463b-a080-b13c3a390b13",
+  "Active": true,
+  "Name": "Kraken Schutzrüstung Klasse α PRIME",
+  "Description": "",
+  "Rules": "",
+  "Points": 10,
+  "Weight": 9.0,
+  "AttributeModifier": null,
+  "Potential": 3,
+  "Camouflage": 2,
+  "CamouflageLevel": 4,
+  "DamageTypeList": [
+    {
+      "Type": 1,
+      "Level": 1
+    },
+    {
+      "Type": 3,
+      "Level": 1
+    },
+    {
+      "Type": 4,
+      "Level": 1
+    }
+  ],
+  "DamageEffectList": [
+    {
+      "Type": 5
+    }
+  ],
+  "SelfSustaining": false
+}

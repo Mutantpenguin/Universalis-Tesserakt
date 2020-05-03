@@ -1,0 +1,25 @@
+{
+  "ID": "1cda722b-9d16-4e0d-b583-e8883f85cb15",
+  "Active": true,
+  "Name": "Schwere Pistole",
+  "Description": "",
+  "Rules": null,
+  "Weight": 0.9,
+  "Points": 100,
+  "WK": 1,
+  "Type": 1,
+  "Potential": 5,
+  "Substance": 3,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 1
+  },
+  "DamageEffectList": [],
+  "WeaponRange": {
+    "Length": 20,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

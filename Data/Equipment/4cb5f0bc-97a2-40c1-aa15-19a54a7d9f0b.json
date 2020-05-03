@@ -1,0 +1,11 @@
+{
+  "ID": "4cb5f0bc-97a2-40c1-aa15-19a54a7d9f0b",
+  "Active": true,
+  "Name": "Schockabsorber",
+  "Description": "",
+  "Rules": "Diese Absorber erlauben es dem Nutzer einen Mißlungenen KK-Wurf für einen Schocktest, einmal zu wiederholen. Das neue Ergebnis ersetzt das Erste.",
+  "Points": 150,
+  "Weight": 8.0,
+  "UseOnce": false,
+  "AttributeModifier": null
+}

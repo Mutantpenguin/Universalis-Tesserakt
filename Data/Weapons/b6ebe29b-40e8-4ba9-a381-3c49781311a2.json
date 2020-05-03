@@ -1,0 +1,25 @@
+{
+  "ID": "b6ebe29b-40e8-4ba9-a381-3c49781311a2",
+  "Active": true,
+  "Name": "Maschinengewehr",
+  "Description": "",
+  "Rules": "",
+  "Weight": 12.0,
+  "Points": 100,
+  "WK": 3,
+  "Type": 1,
+  "Potential": 5,
+  "Substance": 3,
+  "AF": 2,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 2
+  },
+  "DamageEffectList": [],
+  "WeaponRange": {
+    "Length": 35,
+    "Amount": 4
+  },
+  "UseOnce": false
+}

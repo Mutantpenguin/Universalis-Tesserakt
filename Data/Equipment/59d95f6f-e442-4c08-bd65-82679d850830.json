@@ -1,0 +1,12 @@
+{
+  "ID": "59d95f6f-e442-4c08-bd65-82679d850830",
+  "Active": true,
+  "Name": "Medizinische Notfallausrüstung",
+  "Description": "",
+  "Rules": "Stellt bis zu 3 Substanzpunkte, für die jeweils ein eigener erfolgreicher KK-Test vom Patienten abgelegt werden muss, wieder her.\r\nEin kritischer Zustand kann dadurch nicht wieder Rückgängig gemacht werden.",
+  "Points": 300,
+  "Weight": 3.5,
+  "UseOnce": false,
+  "AP": 2,
+  "AttributeModifier": null
+}

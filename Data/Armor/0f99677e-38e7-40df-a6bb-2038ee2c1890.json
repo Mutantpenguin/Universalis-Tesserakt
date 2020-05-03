@@ -1,0 +1,36 @@
+{
+  "ID": "0f99677e-38e7-40df-a6bb-2038ee2c1890",
+  "Active": true,
+  "Name": "Thorax tutamen IV",
+  "Description": "",
+  "Rules": null,
+  "Points": 100,
+  "Weight": 12.0,
+  "AttributeModifier": {
+    "AGI": 0,
+    "BW": 1,
+    "KK": 2,
+    "HAK": 0,
+    "AFG": 1,
+    "SH": 0
+  },
+  "Potential": 4,
+  "Camouflage": 0,
+  "CamouflageLevel": 0,
+  "DamageTypeList": [
+    {
+      "Type": 1,
+      "Level": 1
+    },
+    {
+      "Type": 4,
+      "Level": 1
+    }
+  ],
+  "DamageEffectList": [
+    {
+      "Type": 7
+    }
+  ],
+  "SelfSustaining": false
+}

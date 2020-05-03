@@ -1,0 +1,29 @@
+{
+  "ID": "251070df-e4c2-4e92-ad53-154edd70da84",
+  "Active": true,
+  "Name": "Schutzrüstung Klasse α",
+  "Description": "",
+  "Rules": "",
+  "Points": 10,
+  "Weight": 6.0,
+  "AttributeModifier": null,
+  "Potential": 3,
+  "Camouflage": 0,
+  "CamouflageLevel": 0,
+  "DamageTypeList": [
+    {
+      "Type": 1,
+      "Level": 1
+    },
+    {
+      "Type": 3,
+      "Level": 1
+    }
+  ],
+  "DamageEffectList": [
+    {
+      "Type": 5
+    }
+  ],
+  "SelfSustaining": false
+}

@@ -1,0 +1,11 @@
+{
+  "ID": "23feaa27-b395-4d1d-bd39-3e043549cb12",
+  "Active": true,
+  "Name": "Waffen-Link",
+  "Description": "",
+  "Rules": "Bei einem Misserfolg beim Fernkampfwurf darf dieser einmal wiederholt werden. Das neue Ergebnis zählt.\r\nDas Modell muss eines der beiden Ausrüstungsgegenstände haben um einen Waffen-Link verwenden zu können:\r\n1. Kann nur mit mit einem Bionischem Auge verwendet werden\r\n2. Kann nur mit einem GAC (Gefechts-Analyse-Computer) verwendet werden",
+  "Points": 100,
+  "Weight": 0.5,
+  "UseOnce": false,
+  "AttributeModifier": null
+}

@@ -1,0 +1,29 @@
+{
+  "ID": "76fbf73e-b6fd-4bfc-94b9-c077cd3bf856",
+  "Active": true,
+  "Name": "Monomolekular-Tanto",
+  "Description": "",
+  "Rules": null,
+  "Weight": 0.0,
+  "Points": 0,
+  "WK": 1,
+  "Type": 2,
+  "Potential": 4,
+  "Substance": 3,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 3,
+    "Level": 1
+  },
+  "DamageEffectList": [
+    {
+      "Type": 11
+    }
+  ],
+  "WeaponRange": {
+    "Length": 0,
+    "Amount": 0
+  },
+  "UseOnce": false
+}

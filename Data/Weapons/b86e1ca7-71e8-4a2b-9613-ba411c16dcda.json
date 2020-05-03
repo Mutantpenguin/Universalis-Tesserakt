@@ -1,0 +1,30 @@
+{
+  "ID": "b86e1ca7-71e8-4a2b-9613-ba411c16dcda",
+  "Active": true,
+  "Name": "Zirpende Grille",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.5,
+  "Points": 200,
+  "WK": 1,
+  "Type": 1,
+  "Potential": 6,
+  "Substance": 1,
+  "AF": 0,
+  "Radius": 4,
+  "Unwieldy": false,
+  "DamageType": {
+    "Type": 4,
+    "Level": 3
+  },
+  "DamageEffectList": [
+    {
+      "Type": 5
+    }
+  ],
+  "WeaponRange": {
+    "Length": 14,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

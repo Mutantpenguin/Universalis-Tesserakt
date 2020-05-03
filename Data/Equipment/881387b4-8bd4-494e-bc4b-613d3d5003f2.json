@@ -1,0 +1,11 @@
+{
+  "ID": "881387b4-8bd4-494e-bc4b-613d3d5003f2",
+  "Active": true,
+  "Name": "Waffenaufhängung G-100",
+  "Description": "",
+  "Rules": "Eine WK IV oder V Waffe kann einmal in der Runde mit -1 AP weniger abgefeuert werden.",
+  "Points": 100,
+  "Weight": 9.0,
+  "UseOnce": false,
+  "AttributeModifier": null
+}

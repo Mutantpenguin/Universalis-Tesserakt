@@ -1,0 +1,29 @@
+{
+  "ID": "5d82e35a-d44b-4ccc-bdaf-d7f88b6967a9",
+  "Active": true,
+  "Name": "Monomolekular-Katana",
+  "Description": "",
+  "Rules": null,
+  "Weight": 0.0,
+  "Points": 0,
+  "WK": 1,
+  "Type": 2,
+  "Potential": 5,
+  "Substance": 3,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 3,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 11
+    }
+  ],
+  "WeaponRange": {
+    "Length": 0,
+    "Amount": 0
+  },
+  "UseOnce": false
+}

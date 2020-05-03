@@ -1,0 +1,32 @@
+{
+  "ID": "0ad9b956-d444-4c0f-9551-42d0bb87367c",
+  "Active": true,
+  "Name": "Railpistole NL-800",
+  "Description": "",
+  "Rules": null,
+  "Weight": 2.9,
+  "Points": 300,
+  "WK": 1,
+  "Type": 1,
+  "Potential": 4,
+  "Substance": 4,
+  "AF": 1,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 13
+    },
+    {
+      "Type": 2
+    }
+  ],
+  "WeaponRange": {
+    "Length": 20,
+    "Amount": 4
+  },
+  "UseOnce": false
+}

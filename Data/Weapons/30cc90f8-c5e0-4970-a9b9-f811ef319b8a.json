@@ -1,0 +1,29 @@
+{
+  "ID": "30cc90f8-c5e0-4970-a9b9-f811ef319b8a",
+  "Active": true,
+  "Name": "Cal. 50 Sturmgewehr Panzerbrechende Munition",
+  "Description": "Eine neue Entwicklung um die Effektivität von schweren Körperpanzern zu verbessern. Nur mit der Unterstützung der Tragkraft dieser Panzerung ist ein Cal. 50 Sturmgewehr wirklich wirksam.",
+  "Rules": "",
+  "Weight": 35.0,
+  "Points": 200,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 5,
+  "Substance": 3,
+  "AF": 1,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 12
+    }
+  ],
+  "WeaponRange": {
+    "Length": 40,
+    "Amount": 4
+  },
+  "UseOnce": false
+}

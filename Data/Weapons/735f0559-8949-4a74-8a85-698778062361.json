@@ -1,0 +1,33 @@
+{
+  "ID": "735f0559-8949-4a74-8a85-698778062361",
+  "Active": true,
+  "Name": "MIKe-Abwehrrakete KS",
+  "Description": "",
+  "Rules": null,
+  "Weight": 40.0,
+  "Points": 500,
+  "WK": 3,
+  "Type": 1,
+  "Potential": 8,
+  "Substance": 6,
+  "AF": 0,
+  "Radius": 0,
+  "Unwieldy": true,
+  "DamageType": {
+    "Type": 1,
+    "Level": 3
+  },
+  "DamageEffectList": [
+    {
+      "Type": 17
+    },
+    {
+      "Type": 5
+    }
+  ],
+  "WeaponRange": {
+    "Length": 25,
+    "Amount": 3
+  },
+  "UseOnce": true
+}

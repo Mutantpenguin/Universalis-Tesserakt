@@ -1,0 +1,21 @@
+{
+  "ID": "d5400183-6521-44cb-9dc7-acf76484a8a7",
+  "Active": true,
+  "Name": "Tarnanzug",
+  "Description": "",
+  "Rules": "",
+  "Points": 111,
+  "Weight": 9.0,
+  "AttributeModifier": null,
+  "Potential": 3,
+  "Camouflage": 1,
+  "CamouflageLevel": 3,
+  "DamageTypeList": [
+    {
+      "Type": 1,
+      "Level": 1
+    }
+  ],
+  "DamageEffectList": null,
+  "SelfSustaining": false
+}

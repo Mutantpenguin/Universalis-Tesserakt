@@ -1,0 +1,40 @@
+{
+  "ID": "312c4d18-8cab-4639-a78d-dc0bc76ba88c",
+  "Active": true,
+  "Name": "MIB-Anzug",
+  "Description": "",
+  "Rules": "",
+  "Points": 200,
+  "Weight": 3.0,
+  "AttributeModifier": null,
+  "Potential": 3,
+  "Camouflage": 0,
+  "CamouflageLevel": 0,
+  "DamageTypeList": [
+    {
+      "Type": 1,
+      "Level": 1
+    },
+    {
+      "Type": 3,
+      "Level": 1
+    },
+    {
+      "Type": 2,
+      "Level": 1
+    },
+    {
+      "Type": 4,
+      "Level": 1
+    }
+  ],
+  "DamageEffectList": [
+    {
+      "Type": 5
+    },
+    {
+      "Type": 1
+    }
+  ],
+  "SelfSustaining": false
+}

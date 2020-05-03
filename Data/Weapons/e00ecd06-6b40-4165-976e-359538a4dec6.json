@@ -1,0 +1,25 @@
+{
+  "ID": "e00ecd06-6b40-4165-976e-359538a4dec6",
+  "Active": true,
+  "Name": "Pistole WK P-85",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.9,
+  "Points": 100,
+  "WK": 1,
+  "Type": 1,
+  "Potential": 4,
+  "Substance": 2,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 1
+  },
+  "DamageEffectList": null,
+  "WeaponRange": {
+    "Length": 20,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

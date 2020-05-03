@@ -1,0 +1,29 @@
+{
+  "ID": "f562d8e2-96a4-42a5-b4b8-71784202a22f",
+  "Active": true,
+  "Name": "Thermal-Strahlen-Pistole",
+  "Description": "",
+  "Rules": "",
+  "Weight": 3.0,
+  "Points": 20,
+  "WK": 1,
+  "Type": 1,
+  "Potential": 3,
+  "Substance": 3,
+  "AF": 1,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 4,
+    "Level": 1
+  },
+  "DamageEffectList": [
+    {
+      "Type": 7
+    }
+  ],
+  "WeaponRange": {
+    "Length": 25,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

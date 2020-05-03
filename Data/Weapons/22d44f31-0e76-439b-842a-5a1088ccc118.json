@@ -1,0 +1,29 @@
+{
+  "ID": "22d44f31-0e76-439b-842a-5a1088ccc118",
+  "Active": true,
+  "Name": "Deuterium-Werfer",
+  "Description": "",
+  "Rules": null,
+  "Weight": 29.0,
+  "Points": 60,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 6,
+  "Substance": 4,
+  "AF": 0,
+  "Radius": 2,
+  "DamageType": {
+    "Type": 1,
+    "Level": 1
+  },
+  "DamageEffectList": [
+    {
+      "Type": 6
+    }
+  ],
+  "WeaponRange": {
+    "Length": 40,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

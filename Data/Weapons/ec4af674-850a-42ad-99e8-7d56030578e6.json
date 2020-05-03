@@ -1,0 +1,29 @@
+{
+  "ID": "ec4af674-850a-42ad-99e8-7d56030578e6",
+  "Active": true,
+  "Name": "Gesegnete Greif-Klauen",
+  "Description": "",
+  "Rules": null,
+  "Weight": 50.0,
+  "Points": 400,
+  "WK": 1,
+  "Type": 2,
+  "Potential": 6,
+  "Substance": 4,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 2,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 12
+    }
+  ],
+  "WeaponRange": {
+    "Length": 0,
+    "Amount": 0
+  },
+  "UseOnce": false
+}

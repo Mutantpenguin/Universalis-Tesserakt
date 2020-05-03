@@ -1,0 +1,29 @@
+{
+  "ID": "b468c522-eebd-48c1-b0e1-c1f809018502",
+  "Active": true,
+  "Name": "BüKa -Desintegratorklinge",
+  "Description": "",
+  "Rules": null,
+  "Weight": 1.5,
+  "Points": 100,
+  "WK": 1,
+  "Type": 2,
+  "Potential": 5,
+  "Substance": 3,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 2,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 1
+    }
+  ],
+  "WeaponRange": {
+    "Length": 0,
+    "Amount": 0
+  },
+  "UseOnce": false
+}

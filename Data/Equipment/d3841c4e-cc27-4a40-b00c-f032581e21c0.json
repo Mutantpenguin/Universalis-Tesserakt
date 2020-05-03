@@ -1,0 +1,19 @@
+{
+  "ID": "d3841c4e-cc27-4a40-b00c-f032581e21c0",
+  "Active": true,
+  "Name": "Stimulations-Injektor",
+  "Description": "",
+  "Rules": "",
+  "Points": 150,
+  "Weight": 0.3,
+  "UseOnce": true,
+  "AP": 0,
+  "AttributeModifier": {
+    "AGI": 1,
+    "BW": 2,
+    "KK": 0,
+    "HAK": 0,
+    "AFG": 0,
+    "SH": 0
+  }
+}

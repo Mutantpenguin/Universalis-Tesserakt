@@ -1,0 +1,32 @@
+{
+  "ID": "709144f9-b67c-485b-9e20-d8e4f954a898",
+  "Active": true,
+  "Name": "Multi Kanone M700",
+  "Description": "",
+  "Rules": null,
+  "Weight": 34.0,
+  "Points": 200,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 7,
+  "Substance": 4,
+  "AF": 1,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 7
+    },
+    {
+      "Type": 17
+    }
+  ],
+  "WeaponRange": {
+    "Length": 50,
+    "Amount": 4
+  },
+  "UseOnce": false
+}

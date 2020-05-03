@@ -1,0 +1,29 @@
+{
+  "ID": "d083d240-ec48-4c6e-9216-86a56702b48e",
+  "Active": true,
+  "Name": "Thermal-Strahlen-Gewehr",
+  "Description": "",
+  "Rules": null,
+  "Weight": 6.0,
+  "Points": 45,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 5,
+  "Substance": 3,
+  "AF": 1,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 4,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 7
+    }
+  ],
+  "WeaponRange": {
+    "Length": 50,
+    "Amount": 2
+  },
+  "UseOnce": false
+}

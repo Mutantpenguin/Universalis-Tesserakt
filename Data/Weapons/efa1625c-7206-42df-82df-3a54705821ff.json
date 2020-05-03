@@ -1,0 +1,29 @@
+{
+  "ID": "efa1625c-7206-42df-82df-3a54705821ff",
+  "Active": true,
+  "Name": "Disruptorfeldtonfa",
+  "Description": "",
+  "Rules": null,
+  "Weight": 5.0,
+  "Points": 400,
+  "WK": 1,
+  "Type": 2,
+  "Potential": 5,
+  "Substance": 5,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 2,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 1
+    }
+  ],
+  "WeaponRange": {
+    "Length": 0,
+    "Amount": 0
+  },
+  "UseOnce": false
+}

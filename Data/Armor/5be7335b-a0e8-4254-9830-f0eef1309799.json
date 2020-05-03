@@ -1,0 +1,46 @@
+{
+  "ID": "5be7335b-a0e8-4254-9830-f0eef1309799",
+  "Active": true,
+  "Name": "BRUTUS -Biologischer Alienpanzer",
+  "Description": "Die Wiederstandkraft dieser Kreatur ist unglaublich. ",
+  "Rules": null,
+  "Points": 700,
+  "Weight": 200.0,
+  "AttributeModifier": null,
+  "Potential": 5,
+  "Camouflage": 0,
+  "CamouflageLevel": 0,
+  "DamageTypeList": [
+    {
+      "Type": 1,
+      "Level": 3
+    },
+    {
+      "Type": 2,
+      "Level": 3
+    },
+    {
+      "Type": 3,
+      "Level": 3
+    },
+    {
+      "Type": 4,
+      "Level": 1
+    }
+  ],
+  "DamageEffectList": [
+    {
+      "Type": 7
+    },
+    {
+      "Type": 5
+    },
+    {
+      "Type": 1
+    },
+    {
+      "Type": 17
+    }
+  ],
+  "SelfSustaining": true
+}

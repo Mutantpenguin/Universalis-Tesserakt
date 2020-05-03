@@ -1,0 +1,29 @@
+{
+  "ID": "1abf7413-260f-4311-9c69-3409e836724f",
+  "Active": true,
+  "Name": "Sturmgewehr -Remigton II Cruce-",
+  "Description": "",
+  "Rules": null,
+  "Weight": 14.5,
+  "Points": 350,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 5,
+  "Substance": 4,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 3
+  },
+  "DamageEffectList": [
+    {
+      "Type": 5
+    }
+  ],
+  "WeaponRange": {
+    "Length": 20,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

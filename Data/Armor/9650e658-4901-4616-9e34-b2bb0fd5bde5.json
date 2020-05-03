@@ -1,0 +1,39 @@
+{
+  "ID": "9650e658-4901-4616-9e34-b2bb0fd5bde5",
+  "Active": true,
+  "Name": "Rinaldiumpanzeranzug Typ II",
+  "Description": "",
+  "Rules": "",
+  "Points": 180,
+  "Weight": 200.0,
+  "AttributeModifier": {
+    "AGI": -1,
+    "BW": 1,
+    "KK": 1,
+    "HAK": 1,
+    "AFG": 1,
+    "SH": 0
+  },
+  "Potential": 8,
+  "Camouflage": 0,
+  "CamouflageLevel": 0,
+  "DamageTypeList": [
+    {
+      "Type": 1,
+      "Level": 1
+    },
+    {
+      "Type": 3,
+      "Level": 1
+    }
+  ],
+  "DamageEffectList": [
+    {
+      "Type": 7
+    },
+    {
+      "Type": 12
+    }
+  ],
+  "SelfSustaining": false
+}

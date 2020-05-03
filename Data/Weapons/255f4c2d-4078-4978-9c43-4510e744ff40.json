@@ -1,0 +1,29 @@
+{
+  "ID": "255f4c2d-4078-4978-9c43-4510e744ff40",
+  "Active": true,
+  "Name": "AK-900",
+  "Description": "",
+  "Rules": "",
+  "Weight": 21.0,
+  "Points": 200,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 5,
+  "Substance": 3,
+  "AF": 1,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 14
+    }
+  ],
+  "WeaponRange": {
+    "Length": 20,
+    "Amount": 4
+  },
+  "UseOnce": false
+}

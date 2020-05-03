@@ -1,0 +1,47 @@
+{
+  "ID": "7039e92a-aa7c-441a-a2bb-577b6d5ff0d2",
+  "Active": true,
+  "Name": "Kadinalsgewand",
+  "Description": "",
+  "Rules": null,
+  "Points": 400,
+  "Weight": 16.0,
+  "AttributeModifier": {
+    "AGI": 0,
+    "BW": 2,
+    "KK": 0,
+    "HAK": 0,
+    "AFG": 0,
+    "SH": 0
+  },
+  "Potential": 5,
+  "Camouflage": 0,
+  "CamouflageLevel": 0,
+  "DamageTypeList": [
+    {
+      "Type": 4,
+      "Level": 1
+    },
+    {
+      "Type": 2,
+      "Level": 1
+    },
+    {
+      "Type": 3,
+      "Level": 1
+    },
+    {
+      "Type": 1,
+      "Level": 1
+    }
+  ],
+  "DamageEffectList": [
+    {
+      "Type": 7
+    },
+    {
+      "Type": 10
+    }
+  ],
+  "SelfSustaining": false
+}

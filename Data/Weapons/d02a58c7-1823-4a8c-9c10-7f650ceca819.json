@@ -1,0 +1,25 @@
+{
+  "ID": "d02a58c7-1823-4a8c-9c10-7f650ceca819",
+  "Active": true,
+  "Name": "WK PG-70",
+  "Description": "",
+  "Rules": null,
+  "Weight": 3.2,
+  "Points": 190,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 5,
+  "Substance": 3,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 2
+  },
+  "DamageEffectList": null,
+  "WeaponRange": {
+    "Length": 50,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

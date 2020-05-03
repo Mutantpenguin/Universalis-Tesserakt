@@ -1,0 +1,56 @@
+{
+  "ID": "e78a6a10-b3bd-4972-9bbe-b1472762d894",
+  "Active": true,
+  "Name": "TSIM-T-IIa - Moloch TODO",
+  "Description": "",
+  "Weight": 75.0,
+  "SZ": 13,
+  "Icon": "/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADkAOQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD5/ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD//Z",
+  "Size": 2,
+  "Type": 1,
+  "Faction": "1aa4161a-b1eb-49d7-830f-9d558cf2c8d7",
+  "MovementType": 2,
+  "Fov": 90,
+  "ActorOutfitsList": [
+    {
+      "ID": "3f086487-0767-4203-9487-8a7f32071dfc",
+      "Name": "Standard",
+      "ActorWeaponsList": [
+        {
+          "ID": "5dc41ba8-2c9d-41eb-8d15-db5d7a1c9a2b",
+          "Weapon": "52ea7e29-c141-411e-a42c-9e74ef97adae"
+        },
+        {
+          "ID": "823a0b25-ec2b-4f9c-93ce-3cc05d133da0",
+          "Weapon": "52ea7e29-c141-411e-a42c-9e74ef97adae"
+        },
+        {
+          "ID": "8b1cf979-58fa-4e1d-ad46-9b177548ea70",
+          "Weapon": "52ea7e29-c141-411e-a42c-9e74ef97adae"
+        },
+        {
+          "ID": "8a0cfc4b-5f83-4f1d-91bf-173c39914af5",
+          "Weapon": "fe2807bb-fc0d-41b9-a4e0-f599a2307b4d"
+        }
+      ],
+      "ActorEquipmentList": []
+    }
+  ],
+  "Armor": "143221fd-1e05-4b8a-b48a-b82694f945a9",
+  "ActorTraitsList": [
+    {
+      "ID": "94f28c23-6987-4151-9a8e-87d03f322203",
+      "Level": 2,
+      "Trait": "cbacceda-5059-42a1-bf9b-d9ccde53962e"
+    }
+  ],
+  "Attributes": {
+    "AGI": 4,
+    "BW": 5,
+    "KK": 7,
+    "HAK": 4,
+    "AFG": 4,
+    "SH": 8
+  },
+  "Img": null
+}

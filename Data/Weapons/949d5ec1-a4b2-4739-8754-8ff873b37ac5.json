@@ -1,0 +1,32 @@
+{
+  "ID": "949d5ec1-a4b2-4739-8754-8ff873b37ac5",
+  "Active": true,
+  "Name": "Pulsarkanone",
+  "Description": "",
+  "Rules": null,
+  "Weight": 54.0,
+  "Points": 500,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 7,
+  "Substance": 5,
+  "AF": 2,
+  "Radius": 3,
+  "DamageType": {
+    "Type": 4,
+    "Level": 3
+  },
+  "DamageEffectList": [
+    {
+      "Type": 10
+    },
+    {
+      "Type": 7
+    }
+  ],
+  "WeaponRange": {
+    "Length": 40,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

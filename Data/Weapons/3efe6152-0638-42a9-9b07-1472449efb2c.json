@@ -1,0 +1,29 @@
+{
+  "ID": "3efe6152-0638-42a9-9b07-1472449efb2c",
+  "Active": true,
+  "Name": "Unterlaufgranatwerfer (AI)",
+  "Description": "",
+  "Rules": "",
+  "Weight": 1.0,
+  "Points": 100,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 5,
+  "Substance": 4,
+  "AF": 0,
+  "Radius": 3,
+  "DamageType": {
+    "Type": 1,
+    "Level": 1
+  },
+  "DamageEffectList": [
+    {
+      "Type": 5
+    }
+  ],
+  "WeaponRange": {
+    "Length": 15,
+    "Amount": 3
+  },
+  "UseOnce": true
+}

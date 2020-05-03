@@ -1,0 +1,29 @@
+{
+  "ID": "7c15b53d-094b-47ab-8078-c725c757186a",
+  "Active": true,
+  "Name": "Desintegrator-Pistole",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.9,
+  "Points": 100,
+  "WK": 1,
+  "Type": 1,
+  "Potential": 4,
+  "Substance": 2,
+  "AF": 0,
+  "Radius": 1,
+  "DamageType": {
+    "Type": 4,
+    "Level": 1
+  },
+  "DamageEffectList": [
+    {
+      "Type": 1
+    }
+  ],
+  "WeaponRange": {
+    "Length": 5,
+    "Amount": 2
+  },
+  "UseOnce": false
+}

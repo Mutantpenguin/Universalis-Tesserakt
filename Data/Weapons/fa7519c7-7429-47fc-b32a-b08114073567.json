@@ -1,0 +1,32 @@
+{
+  "ID": "fa7519c7-7429-47fc-b32a-b08114073567",
+  "Active": true,
+  "Name": "BüKa -HE-Magazin",
+  "Description": "",
+  "Rules": null,
+  "Weight": 3.0,
+  "Points": 100,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 7,
+  "Substance": 5,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 4,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 6
+    },
+    {
+      "Type": 17
+    }
+  ],
+  "WeaponRange": {
+    "Length": 30,
+    "Amount": 2
+  },
+  "UseOnce": true
+}

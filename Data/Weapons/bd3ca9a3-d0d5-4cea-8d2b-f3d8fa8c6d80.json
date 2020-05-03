@@ -1,0 +1,29 @@
+{
+  "ID": "bd3ca9a3-d0d5-4cea-8d2b-f3d8fa8c6d80",
+  "Active": true,
+  "Name": "Pistole Panzerbrechend",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.9,
+  "Points": 100,
+  "WK": 1,
+  "Type": 1,
+  "Potential": 4,
+  "Substance": 2,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 1
+  },
+  "DamageEffectList": [
+    {
+      "Type": 12
+    }
+  ],
+  "WeaponRange": {
+    "Length": 20,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

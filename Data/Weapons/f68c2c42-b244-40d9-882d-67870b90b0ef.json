@@ -1,0 +1,29 @@
+{
+  "ID": "f68c2c42-b244-40d9-882d-67870b90b0ef",
+  "Active": true,
+  "Name": "BüKa -Salven-Magazin",
+  "Description": "",
+  "Rules": null,
+  "Weight": 3.0,
+  "Points": 100,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 7,
+  "Substance": 5,
+  "AF": 3,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 4,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 6
+    }
+  ],
+  "WeaponRange": {
+    "Length": 30,
+    "Amount": 1
+  },
+  "UseOnce": true
+}

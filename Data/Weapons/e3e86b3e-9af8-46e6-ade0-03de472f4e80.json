@@ -1,0 +1,25 @@
+{
+  "ID": "e3e86b3e-9af8-46e6-ade0-03de472f4e80",
+  "Active": true,
+  "Name": "MIKe Kampfmesser",
+  "Description": "",
+  "Rules": null,
+  "Weight": 14.3,
+  "Points": 100,
+  "WK": 2,
+  "Type": 2,
+  "Potential": 4,
+  "Substance": 4,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 3,
+    "Level": 2
+  },
+  "DamageEffectList": null,
+  "WeaponRange": {
+    "Length": 0,
+    "Amount": 0
+  },
+  "UseOnce": false
+}

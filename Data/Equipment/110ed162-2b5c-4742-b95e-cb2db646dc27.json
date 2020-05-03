@@ -1,0 +1,10 @@
+{
+  "ID": "110ed162-2b5c-4742-b95e-cb2db646dc27",
+  "Active": true,
+  "Name": "Nanitenregenerator",
+  "Description": "Die Funktionsbasis dieses Gerätes ist reine theoretische Wissenschaft. Wir gehen davon aus, das die Regeneration die benötigte Energie durch ein Miniaturwurmloch aus einer anderen Dimension einfordert.",
+  "Rules": "Durch den Einsatz eines Aktionspunktes kann für einen verlorenen Substanzpunkt ein KK-Wurf abgelegt werden. Gelingt der KK-Wurf wird der SZ-Punkt wiederhergestellt. Es können beliebig viele Aktionspunkte ausgegeben werden.\r\n\r\nKANN NUR VON EINEM TRÄGER EINES \"TESSERAKTKONSTRUKT\" GETRAGEN WERDEN!",
+  "Points": 500,
+  "Weight": 20.0,
+  "AttributeModifier": null
+}

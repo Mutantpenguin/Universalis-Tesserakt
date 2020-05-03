@@ -1,0 +1,13 @@
+{
+  "ID": "10e48eb6-f04c-4ed5-83ca-d3b482a1c332",
+  "Name": "Ängstlich",
+  "Description": "",
+  "Rules": "Läuft bei Angst doppelt so weit weg.",
+  "Type": "-",
+  "TraitLevelList": [
+    {
+      "Level": 0,
+      "Points": -30
+    }
+  ]
+}

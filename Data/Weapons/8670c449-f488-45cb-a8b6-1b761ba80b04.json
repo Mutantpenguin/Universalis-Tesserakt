@@ -1,0 +1,25 @@
+{
+  "ID": "8670c449-f488-45cb-a8b6-1b761ba80b04",
+  "Active": true,
+  "Name": "Maschinenpistole",
+  "Description": "",
+  "Rules": "",
+  "Weight": 0.9,
+  "Points": 100,
+  "WK": 1,
+  "Type": 1,
+  "Potential": 4,
+  "Substance": 2,
+  "AF": 2,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 1
+  },
+  "DamageEffectList": null,
+  "WeaponRange": {
+    "Length": 20,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

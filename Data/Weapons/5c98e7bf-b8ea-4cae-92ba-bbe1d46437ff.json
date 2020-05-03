@@ -1,0 +1,30 @@
+{
+  "ID": "5c98e7bf-b8ea-4cae-92ba-bbe1d46437ff",
+  "Active": true,
+  "Name": "Cal. 50 Sturmgewehr",
+  "Description": "Eine neue Entwicklung um die Effektivität von schweren Körperpanzern zu verbessern. Nur mit der Unterstützung dieser Tragbla ist ein Cal. 50 Sturmgewehr wirklich wirksam.",
+  "Rules": null,
+  "Weight": 22.0,
+  "Points": 200,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 6,
+  "Substance": 3,
+  "AF": 1,
+  "Radius": 0,
+  "Unwieldy": false,
+  "DamageType": {
+    "Type": 1,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 5
+    }
+  ],
+  "WeaponRange": {
+    "Length": 40,
+    "Amount": 4
+  },
+  "UseOnce": false
+}

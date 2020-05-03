@@ -1,0 +1,22 @@
+{
+  "ID": "cbacceda-5059-42a1-bf9b-d9ccde53962e",
+  "Active": true,
+  "Name": "TSIM - Regeneration",
+  "Description": "",
+  "Rules": "Zum Beginn jeder Initiativephase des Modells werden seine Substanzpunkte wieder um [LVL] Punkte aufgefüllt.\r\nGreift nur wenn das Modell noch über mindestens 1 Substanzpunkt verfügt.",
+  "Type": "+",
+  "TraitLevelList": [
+    {
+      "Level": 1,
+      "Points": 50
+    },
+    {
+      "Level": 2,
+      "Points": 100
+    },
+    {
+      "Level": 3,
+      "Points": 200
+    }
+  ]
+}

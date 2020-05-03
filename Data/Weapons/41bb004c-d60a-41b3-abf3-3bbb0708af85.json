@@ -1,0 +1,29 @@
+{
+  "ID": "41bb004c-d60a-41b3-abf3-3bbb0708af85",
+  "Active": true,
+  "Name": "EMP Granate",
+  "Description": "",
+  "Rules": null,
+  "Weight": 0.45,
+  "Points": 0,
+  "WK": 1,
+  "Type": 3,
+  "Potential": 4,
+  "Substance": 2,
+  "AF": 0,
+  "Radius": 4,
+  "DamageType": {
+    "Type": 4,
+    "Level": 1
+  },
+  "DamageEffectList": [
+    {
+      "Type": 4
+    }
+  ],
+  "WeaponRange": {
+    "Length": 10,
+    "Amount": 1
+  },
+  "UseOnce": true
+}

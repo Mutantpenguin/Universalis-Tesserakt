@@ -1,0 +1,25 @@
+{
+  "ID": "25193974-f7a1-4cc0-ba7c-a34948dd97c7",
+  "Active": true,
+  "Name": "Dragunow IV",
+  "Description": "",
+  "Rules": null,
+  "Weight": 3.5,
+  "Points": 100,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 5,
+  "Substance": 3,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 2
+  },
+  "DamageEffectList": null,
+  "WeaponRange": {
+    "Length": 40,
+    "Amount": 4
+  },
+  "UseOnce": false
+}

@@ -1,0 +1,25 @@
+{
+  "ID": "fbb18631-fb00-4e4f-a6c0-6b7d3aa6943b",
+  "Active": true,
+  "Name": "Alienpanzer I",
+  "Description": "",
+  "Rules": null,
+  "Points": 100,
+  "Weight": 2.0,
+  "AttributeModifier": null,
+  "Potential": 4,
+  "Camouflage": 0,
+  "CamouflageLevel": 0,
+  "DamageTypeList": [
+    {
+      "Type": 1,
+      "Level": 1
+    },
+    {
+      "Type": 4,
+      "Level": 1
+    }
+  ],
+  "DamageEffectList": null,
+  "SelfSustaining": false
+}

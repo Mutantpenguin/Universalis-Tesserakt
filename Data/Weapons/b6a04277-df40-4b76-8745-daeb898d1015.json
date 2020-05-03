@@ -1,0 +1,29 @@
+{
+  "ID": "b6a04277-df40-4b76-8745-daeb898d1015",
+  "Active": true,
+  "Name": "Infiltrator-Pistole BELZEBUB",
+  "Description": "",
+  "Rules": null,
+  "Weight": 1.9,
+  "Points": 290,
+  "WK": 1,
+  "Type": 1,
+  "Potential": 5,
+  "Substance": 4,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 15
+    }
+  ],
+  "WeaponRange": {
+    "Length": 15,
+    "Amount": 2
+  },
+  "UseOnce": false
+}

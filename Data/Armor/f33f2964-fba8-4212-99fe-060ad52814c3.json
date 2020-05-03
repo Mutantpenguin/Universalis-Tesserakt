@@ -1,0 +1,35 @@
+  {
+    "ID": "f33f2964-fba8-4212-99fe-060ad52814c3",
+    "Active" :  true,
+    "Name": "(Kopie von) Servopanzer Walküre",
+    "Description": "Super Duper Doppelpanzerung, Klimaautomatik, Luftfederung, Bluetooth, Radio, CD, MP3",
+    "Points": 130,
+    "Weight": 18.0,
+    "AttributeModifier": {
+      "AGI": -1,
+      "BW": 0,
+      "KK": 1,
+      "HAK": 0,
+      "AFG": 2,
+      "SH": 0
+    },
+    "Potential": 8,
+    "DamageTypeList": [
+      {
+        "Type": 1,
+        "Level": 3
+      },
+      {
+        "Type": 3,
+        "Level": 3
+      }
+    ],
+    "DamageEffectList": [
+      {
+        "Type": 5
+      },
+      {
+        "Type": 12
+      }
+    ]
+  }

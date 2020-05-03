@@ -1,0 +1,18 @@
+{
+  "ID": "49bd06a1-316f-484c-9ca1-3443f87ddd72",
+  "Active": true,
+  "Name": "Augenimplantat",
+  "Description": "",
+  "Rules": null,
+  "Points": 100,
+  "Weight": 0.1,
+  "UseOnce": false,
+  "AttributeModifier": {
+    "AGI": 0,
+    "BW": 0,
+    "KK": 0,
+    "HAK": 1,
+    "AFG": 0,
+    "SH": 0
+  }
+}

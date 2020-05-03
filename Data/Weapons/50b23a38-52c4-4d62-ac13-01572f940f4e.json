@@ -1,0 +1,29 @@
+{
+  "ID": "50b23a38-52c4-4d62-ac13-01572f940f4e",
+  "Active": true,
+  "Name": "Schulter-Kurzstrecken-Pulsar",
+  "Description": "",
+  "Rules": null,
+  "Weight": 9.0,
+  "Points": 200,
+  "WK": 1,
+  "Type": 1,
+  "Potential": 4,
+  "Substance": 2,
+  "AF": 0,
+  "Radius": 2,
+  "DamageType": {
+    "Type": 4,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 10
+    }
+  ],
+  "WeaponRange": {
+    "Length": 6,
+    "Amount": 4
+  },
+  "UseOnce": false
+}

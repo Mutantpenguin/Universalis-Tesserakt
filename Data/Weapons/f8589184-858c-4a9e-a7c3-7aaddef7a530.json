@@ -1,0 +1,29 @@
+{
+  "ID": "f8589184-858c-4a9e-a7c3-7aaddef7a530",
+  "Active": true,
+  "Name": "Gatlingkanone (6x45mm)",
+  "Description": "",
+  "Rules": null,
+  "Weight": 30.0,
+  "Points": 300,
+  "WK": 3,
+  "Type": 1,
+  "Potential": 5,
+  "Substance": 3,
+  "AF": 3,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 5
+    }
+  ],
+  "WeaponRange": {
+    "Length": 30,
+    "Amount": 4
+  },
+  "UseOnce": false
+}

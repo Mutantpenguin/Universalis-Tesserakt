@@ -1,0 +1,29 @@
+{
+  "ID": "2f2377a7-cba1-4d8a-ab88-3cf95a411e0d",
+  "Active": true,
+  "Name": "Schutzrüstung Klasse β",
+  "Description": "",
+  "Rules": "",
+  "Points": 20,
+  "Weight": 9.0,
+  "AttributeModifier": null,
+  "Potential": 4,
+  "Camouflage": 0,
+  "CamouflageLevel": 0,
+  "DamageTypeList": [
+    {
+      "Type": 1,
+      "Level": 1
+    },
+    {
+      "Type": 3,
+      "Level": 1
+    }
+  ],
+  "DamageEffectList": [
+    {
+      "Type": 5
+    }
+  ],
+  "SelfSustaining": false
+}

@@ -1,0 +1,32 @@
+{
+  "ID": "19c8206d-8a73-4683-9692-f3f99493182f",
+  "Active": true,
+  "Name": "Railgewehr NX-209",
+  "Description": "",
+  "Rules": null,
+  "Weight": 29.0,
+  "Points": 300,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 6,
+  "Substance": 4,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 13
+    },
+    {
+      "Type": 2
+    }
+  ],
+  "WeaponRange": {
+    "Length": 40,
+    "Amount": 4
+  },
+  "UseOnce": false
+}

@@ -1,0 +1,22 @@
+{
+  "ID": "d77fdd21-ef6c-48de-820b-73b7b077d4ae",
+  "Active": true,
+  "Name": "Nahkampf",
+  "Description": "",
+  "Rules": "Das Modell erhält +[LVL]W12 für Nahkampfwürfe.",
+  "Type": "+",
+  "TraitLevelList": [
+    {
+      "Level": 1,
+      "Points": 10
+    },
+    {
+      "Level": 2,
+      "Points": 20
+    },
+    {
+      "Level": 3,
+      "Points": 30
+    }
+  ]
+}

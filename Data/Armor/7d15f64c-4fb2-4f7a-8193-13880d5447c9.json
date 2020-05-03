@@ -1,0 +1,21 @@
+{
+  "ID": "7d15f64c-4fb2-4f7a-8193-13880d5447c9",
+  "Active": true,
+  "Name": "Kamuflyazh odno",
+  "Description": "",
+  "Rules": "",
+  "Points": 160,
+  "Weight": 8.0,
+  "AttributeModifier": null,
+  "Potential": 3,
+  "Camouflage": 2,
+  "CamouflageLevel": 2,
+  "DamageTypeList": [
+    {
+      "Type": 1,
+      "Level": 1
+    }
+  ],
+  "DamageEffectList": null,
+  "SelfSustaining": false
+}

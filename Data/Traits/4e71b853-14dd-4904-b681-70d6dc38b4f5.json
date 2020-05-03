@@ -1,0 +1,14 @@
+{
+  "ID": "4e71b853-14dd-4904-b681-70d6dc38b4f5",
+  "Active": true,
+  "Name": "Gläubig",
+  "Description": "",
+  "Rules": "Ignoriert Außerirdische die einen Verschleierungsmantel tragen.",
+  "Type": "=",
+  "TraitLevelList": [
+    {
+      "Level": 0,
+      "Points": 0
+    }
+  ]
+}

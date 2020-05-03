@@ -1,0 +1,29 @@
+{
+  "ID": "a2f85d79-c131-4a34-9fb7-1d11a33a9fab",
+  "Active": true,
+  "Name": "Blick des Grauens",
+  "Description": "",
+  "Rules": null,
+  "Weight": 0.9,
+  "Points": 100,
+  "WK": 1,
+  "Type": 1,
+  "Potential": 4,
+  "Substance": 0,
+  "AF": 0,
+  "Radius": 2,
+  "DamageType": {
+    "Type": 4,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 8
+    }
+  ],
+  "WeaponRange": {
+    "Length": 10,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

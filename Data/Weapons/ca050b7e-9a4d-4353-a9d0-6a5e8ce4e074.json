@@ -1,0 +1,25 @@
+{
+  "ID": "ca050b7e-9a4d-4353-a9d0-6a5e8ce4e074",
+  "Active": true,
+  "Name": "Geißler",
+  "Description": "",
+  "Rules": null,
+  "Weight": 0.5,
+  "Points": 150,
+  "WK": 1,
+  "Type": 2,
+  "Potential": 3,
+  "Substance": 2,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 2,
+    "Level": 1
+  },
+  "DamageEffectList": [],
+  "WeaponRange": {
+    "Length": 0,
+    "Amount": 0
+  },
+  "UseOnce": false
+}

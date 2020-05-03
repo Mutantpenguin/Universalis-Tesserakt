@@ -1,0 +1,18 @@
+{
+  "ID": "37a7bf06-fa08-4881-b04f-386e3263d2de",
+  "Active": true,
+  "Name": "Bionisches Auge",
+  "Description": "",
+  "Rules": null,
+  "Points": 150,
+  "Weight": 0.1,
+  "UseOnce": false,
+  "AttributeModifier": {
+    "AGI": 0,
+    "BW": 0,
+    "KK": 0,
+    "HAK": 1,
+    "AFG": 1,
+    "SH": 0
+  }
+}

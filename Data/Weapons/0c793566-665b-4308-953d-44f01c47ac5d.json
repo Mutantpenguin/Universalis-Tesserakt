@@ -1,0 +1,29 @@
+{
+  "ID": "0c793566-665b-4308-953d-44f01c47ac5d",
+  "Active": true,
+  "Name": "Kreuzritter-Bastard Schwert",
+  "Description": "",
+  "Rules": null,
+  "Weight": 11.0,
+  "Points": 200,
+  "WK": 1,
+  "Type": 2,
+  "Potential": 7,
+  "Substance": 5,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 3,
+    "Level": 3
+  },
+  "DamageEffectList": [
+    {
+      "Type": 7
+    }
+  ],
+  "WeaponRange": {
+    "Length": 0,
+    "Amount": 0
+  },
+  "UseOnce": false
+}

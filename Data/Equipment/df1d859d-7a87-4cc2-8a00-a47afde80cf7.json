@@ -1,0 +1,10 @@
+{
+  "ID": "df1d859d-7a87-4cc2-8a00-a47afde80cf7",
+  "Active": true,
+  "Name": "Multi-Scanner",
+  "Description": "Wird zur Aufklärung von ATM & PTM verwendet. \r\nAuch Fallen, Mienenfelder, (etc.) können damit verbessert erkannt werden.",
+  "Rules": "Durch einen MultiScanner kann ein Model bei einem Aufklärungs-Test +2 auf den AFG-Wurf zählen. ",
+  "Points": 200,
+  "Weight": 0.8,
+  "AttributeModifier": null
+}

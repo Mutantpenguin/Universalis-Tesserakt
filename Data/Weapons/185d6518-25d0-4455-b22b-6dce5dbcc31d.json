@@ -1,0 +1,29 @@
+{
+  "ID": "185d6518-25d0-4455-b22b-6dce5dbcc31d",
+  "Active": true,
+  "Name": "Nanitenstrahler",
+  "Description": "",
+  "Rules": null,
+  "Weight": 18.0,
+  "Points": 200,
+  "WK": 1,
+  "Type": 1,
+  "Potential": 5,
+  "Substance": 4,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 4,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 11
+    }
+  ],
+  "WeaponRange": {
+    "Length": 30,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

@@ -1,0 +1,32 @@
+{
+  "ID": "52ea7e29-c141-411e-a42c-9e74ef97adae",
+  "Active": true,
+  "Name": "Splitter-Explosion",
+  "Description": "",
+  "Rules": "",
+  "Weight": 12.0,
+  "Points": 50,
+  "WK": 4,
+  "Type": 1,
+  "Potential": 5,
+  "Substance": 4,
+  "AF": 0,
+  "Radius": 4,
+  "DamageType": {
+    "Type": 3,
+    "Level": 3
+  },
+  "DamageEffectList": [
+    {
+      "Type": 14
+    },
+    {
+      "Type": 11
+    }
+  ],
+  "WeaponRange": {
+    "Length": 0,
+    "Amount": 0
+  },
+  "UseOnce": true
+}

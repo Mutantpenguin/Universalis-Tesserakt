@@ -1,0 +1,33 @@
+{
+  "ID": "143221fd-1e05-4b8a-b48a-b82694f945a9",
+  "Active": true,
+  "Name": "Splitterplatten",
+  "Description": "",
+  "Rules": "",
+  "Points": 0,
+  "Weight": 10.0,
+  "AttributeModifier": null,
+  "Potential": 6,
+  "Camouflage": 0,
+  "CamouflageLevel": 0,
+  "DamageTypeList": [
+    {
+      "Type": 3,
+      "Level": 2
+    },
+    {
+      "Type": 1,
+      "Level": 2
+    },
+    {
+      "Type": 4,
+      "Level": 3
+    }
+  ],
+  "DamageEffectList": [
+    {
+      "Type": 5
+    }
+  ],
+  "SelfSustaining": true
+}

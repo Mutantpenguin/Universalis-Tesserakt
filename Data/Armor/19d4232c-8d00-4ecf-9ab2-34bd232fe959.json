@@ -1,0 +1,42 @@
+{
+  "ID": "19d4232c-8d00-4ecf-9ab2-34bd232fe959",
+  "Active": true,
+  "Name": "Thorax tutamen V",
+  "Description": "Ein unglaublicher All-in-one Anzug",
+  "Rules": null,
+  "Points": 200,
+  "Weight": 15.0,
+  "AttributeModifier": {
+    "AGI": 0,
+    "BW": 0,
+    "KK": 2,
+    "HAK": 0,
+    "AFG": 1,
+    "SH": 0
+  },
+  "Potential": 5,
+  "DamageTypeList": [
+    {
+      "Type": 4,
+      "Level": 1
+    },
+    {
+      "Type": 1,
+      "Level": 2
+    }
+  ],
+  "DamageEffectList": [
+    {
+      "Type": 7
+    },
+    {
+      "Type": 10
+    },
+    {
+      "Type": 15
+    },
+    {
+      "Type": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "ID": "8d8019d3-0800-4556-ab4f-1cc38c12e5fd",
+  "Active": true,
+  "Name": "Kampfmesser",
+  "Description": "",
+  "Rules": null,
+  "Weight": 0.3,
+  "Points": 100,
+  "WK": 1,
+  "Type": 2,
+  "Potential": 3,
+  "Substance": 2,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 3,
+    "Level": 1
+  },
+  "DamageEffectList": null,
+  "WeaponRange": {
+    "Length": 0,
+    "Amount": 0
+  },
+  "UseOnce": false
+}

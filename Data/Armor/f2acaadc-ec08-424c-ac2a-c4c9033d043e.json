@@ -1,0 +1,50 @@
+{
+  "ID": "f2acaadc-ec08-424c-ac2a-c4c9033d043e",
+  "Active": true,
+  "Name": "Exo-Skelett mit Nanokörperpanzerüberzug",
+  "Description": "",
+  "Rules": null,
+  "Points": 300,
+  "Weight": 42.0,
+  "AttributeModifier": {
+    "AGI": 1,
+    "BW": 2,
+    "KK": 2,
+    "HAK": 0,
+    "AFG": 0,
+    "SH": 0
+  },
+  "Potential": 6,
+  "Camouflage": 0,
+  "CamouflageLevel": 0,
+  "DamageTypeList": [
+    {
+      "Type": 1,
+      "Level": 2
+    },
+    {
+      "Type": 2,
+      "Level": 1
+    },
+    {
+      "Type": 3,
+      "Level": 1
+    },
+    {
+      "Type": 4,
+      "Level": 1
+    }
+  ],
+  "DamageEffectList": [
+    {
+      "Type": 5
+    },
+    {
+      "Type": 9
+    },
+    {
+      "Type": 11
+    }
+  ],
+  "SelfSustaining": true
+}

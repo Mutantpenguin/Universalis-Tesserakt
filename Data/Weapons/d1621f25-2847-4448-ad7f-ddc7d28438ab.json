@@ -1,0 +1,29 @@
+{
+  "ID": "d1621f25-2847-4448-ad7f-ddc7d28438ab",
+  "Active": true,
+  "Name": "Sturmgewehr -Remigton Pontificio-",
+  "Description": "",
+  "Rules": null,
+  "Weight": 9.5,
+  "Points": 150,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 4,
+  "Substance": 3,
+  "AF": 3,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 5
+    }
+  ],
+  "WeaponRange": {
+    "Length": 20,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

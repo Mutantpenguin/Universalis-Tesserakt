@@ -1,0 +1,29 @@
+{
+  "ID": "dd026951-4b30-47d5-8c66-573f0311be4a",
+  "Name": "Vibro-Tanto",
+  "Description": "",
+  "Rules": null,
+  "Weight": 0.5,
+  "Points": 100,
+  "WK": 1,
+  "Type": 2,
+  "Potential": 4,
+  "Substance": 3,
+  "AF": 0,
+  "Radius": 0,
+  "Unwieldy": false,
+  "DamageType": {
+    "Type": 3,
+    "Level": 1
+  },
+  "DamageEffectList": [
+    {
+      "Type": 15
+    }
+  ],
+  "WeaponRange": {
+    "Length": 0,
+    "Amount": 0
+  },
+  "UseOnce": false
+}

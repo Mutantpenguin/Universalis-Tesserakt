@@ -1,0 +1,11 @@
+{
+  "ID": "af485f6b-8274-471e-8d6f-4051ad6f7732",
+  "Active": true,
+  "Name": "Taktische KI \"Seraphim X84\"",
+  "Description": "",
+  "Rules": "Durch diese KI kann eine WK I Waffe einmal in der Runde abgefeuert werden, ohne dass es AP kostet. Es wird mit den Fernkampfwerten des Trägers gearbeitet. ",
+  "Points": 500,
+  "Weight": 2.5,
+  "UseOnce": false,
+  "AttributeModifier": null
+}

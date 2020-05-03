@@ -1,0 +1,33 @@
+{
+  "ID": "572bcb06-51c6-427e-83f6-a7c0deae1c9d",
+  "Active": true,
+  "Name": "Puls-Laserkanone",
+  "Description": "",
+  "Rules": null,
+  "Weight": 40.0,
+  "Points": 400,
+  "WK": 3,
+  "Type": 1,
+  "Potential": 6,
+  "Substance": 4,
+  "AF": 0,
+  "Radius": 1,
+  "Unwieldy": false,
+  "DamageType": {
+    "Type": 4,
+    "Level": 3
+  },
+  "DamageEffectList": [
+    {
+      "Type": 7
+    },
+    {
+      "Type": 17
+    }
+  ],
+  "WeaponRange": {
+    "Length": 45,
+    "Amount": 2
+  },
+  "UseOnce": false
+}

@@ -1,0 +1,39 @@
+{
+  "ID": "cea4ed73-7b74-4bc0-bb1e-95d2ca7222ff",
+  "Active": true,
+  "Name": "Servopanzer Walküre",
+  "Description": "",
+  "Rules": "",
+  "Points": 110,
+  "Weight": 130.0,
+  "AttributeModifier": {
+    "AGI": 0,
+    "BW": 1,
+    "KK": 1,
+    "HAK": 1,
+    "AFG": 2,
+    "SH": 0
+  },
+  "Potential": 8,
+  "Camouflage": 0,
+  "CamouflageLevel": 0,
+  "DamageTypeList": [
+    {
+      "Type": 1,
+      "Level": 3
+    },
+    {
+      "Type": 3,
+      "Level": 3
+    }
+  ],
+  "DamageEffectList": [
+    {
+      "Type": 5
+    },
+    {
+      "Type": 12
+    }
+  ],
+  "SelfSustaining": false
+}

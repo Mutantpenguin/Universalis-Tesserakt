@@ -1,0 +1,25 @@
+{
+  "ID": "029506af-bd1c-41be-8e48-f6d08d6efafd",
+  "Active": true,
+  "Name": "Sturmgewehr",
+  "Description": "",
+  "Rules": null,
+  "Weight": 3.5,
+  "Points": 100,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 5,
+  "Substance": 2,
+  "AF": 1,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 1
+  },
+  "DamageEffectList": null,
+  "WeaponRange": {
+    "Length": 30,
+    "Amount": 4
+  },
+  "UseOnce": false
+}

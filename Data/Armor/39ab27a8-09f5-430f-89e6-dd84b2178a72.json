@@ -1,0 +1,50 @@
+{
+  "ID": "39ab27a8-09f5-430f-89e6-dd84b2178a72",
+  "Active": true,
+  "Name": "Rinaldiumpanzeranzug",
+  "Description": "",
+  "Rules": "",
+  "Points": 150,
+  "Weight": 160.0,
+  "AttributeModifier": {
+    "AGI": -1,
+    "BW": 0,
+    "KK": 1,
+    "HAK": 1,
+    "AFG": 0,
+    "SH": 0
+  },
+  "Potential": 6,
+  "Camouflage": 0,
+  "CamouflageLevel": 0,
+  "DamageTypeList": [
+    {
+      "Type": 3,
+      "Level": 1
+    },
+    {
+      "Type": 4,
+      "Level": 1
+    },
+    {
+      "Type": 1,
+      "Level": 2
+    },
+    {
+      "Type": 2,
+      "Level": 1
+    }
+  ],
+  "DamageEffectList": [
+    {
+      "Type": 7
+    },
+    {
+      "Type": 12
+    },
+    {
+      "Type": 1
+    }
+  ],
+  "SelfSustaining": true
+}

@@ -1,0 +1,18 @@
+{
+  "ID": "a027c90e-610b-4679-b3a4-393b8f8f3702",
+  "Active": true,
+  "Name": "(Kopie von) Gehirn-Gefechtscomputer KI-9",
+  "Description": "",
+  "Rules": null,
+  "Points": 260,
+  "Weight": 1.0,
+  "UseOnce": false,
+  "AttributeModifier": {
+    "AGI": 1,
+    "BW": 0,
+    "KK": 0,
+    "HAK": 3,
+    "AFG": 1,
+    "SH": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ID": "7c7de3b8-c41d-41b9-bbad-29181450f083",
+  "Active": true,
+  "Name": "Gehirn-Analysecomputer",
+  "Description": "",
+  "Rules": null,
+  "Points": 50,
+  "Weight": 0.5,
+  "AttributeModifier": {
+    "AGI": 1,
+    "BW": 0,
+    "KK": 0,
+    "HAK": 1,
+    "AFG": 1,
+    "SH": 0
+  }
+}

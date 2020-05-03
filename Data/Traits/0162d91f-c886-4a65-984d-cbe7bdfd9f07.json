@@ -1,0 +1,22 @@
+{
+  "ID": "0162d91f-c886-4a65-984d-cbe7bdfd9f07",
+  "Active": true,
+  "Name": "TSE-Weiß",
+  "Description": "",
+  "Rules": "Kann weiße TSE der Stufe [LVL] anwenden.",
+  "Type": "+",
+  "TraitLevelList": [
+    {
+      "Level": 1,
+      "Points": 30
+    },
+    {
+      "Level": 2,
+      "Points": 60
+    },
+    {
+      "Level": 3,
+      "Points": 90
+    }
+  ]
+}

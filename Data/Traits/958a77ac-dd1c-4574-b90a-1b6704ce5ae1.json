@@ -1,0 +1,14 @@
+{
+  "ID": "958a77ac-dd1c-4574-b90a-1b6704ce5ae1",
+  "Active": true,
+  "Name": "MIKe Jäger",
+  "Description": "Hat es gelernt, die Schwachstellen von MIKe auszunutzen.",
+  "Rules": "Alle von ihm gegen MIKe eingesetzten Waffen werden so behandelt, als wenn sie den Effekt Strukturschädigend hätten.\r\nBei Waffen, die tatsächlich über den Effekt Strukturschädigend verfügen, erhält er +1W12 auf den Schadenswurf.",
+  "Type": "+",
+  "TraitLevelList": [
+    {
+      "Level": 0,
+      "Points": 50
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "ID": "dfd168eb-6a13-482e-b01a-6911dfd397ff",
+  "Active": true,
+  "Name": "Gun-Kata",
+  "Description": "",
+  "Rules": "Schusswaffen der Klasse I dürfen im Nahkampf eingesetzt werden.",
+  "Type": "+",
+  "TraitLevelList": [
+    {
+      "Level": 0,
+      "Points": 20
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "ID": "f13c771b-3a67-4ac3-a079-f7a0bde3a2da",
+  "Active": true,
+  "Name": "Kreuzritter-Richtschwert",
+  "Description": "",
+  "Rules": null,
+  "Weight": 11.0,
+  "Points": 200,
+  "WK": 1,
+  "Type": 2,
+  "Potential": 5,
+  "Substance": 4,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 3,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 7
+    }
+  ],
+  "WeaponRange": {
+    "Length": 0,
+    "Amount": 0
+  },
+  "UseOnce": false
+}

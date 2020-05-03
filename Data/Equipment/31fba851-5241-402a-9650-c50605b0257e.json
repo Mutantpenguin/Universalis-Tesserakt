@@ -1,0 +1,12 @@
+{
+  "ID": "31fba851-5241-402a-9650-c50605b0257e",
+  "Active": true,
+  "Name": "Medizinisches Spray",
+  "Description": "",
+  "Rules": "Stellt bei einem erfolgreichen KK-Test des Patienten 1 Substanzpunkt wieder her.\r\nEin kritischer Zustand kann dadurch nicht wieder Rückgängig gemacht werden.",
+  "Points": 100,
+  "Weight": 0.5,
+  "UseOnce": true,
+  "AP": 1,
+  "AttributeModifier": null
+}

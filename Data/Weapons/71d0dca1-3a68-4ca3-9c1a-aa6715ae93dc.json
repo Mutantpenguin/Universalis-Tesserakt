@@ -1,0 +1,29 @@
+{
+  "ID": "71d0dca1-3a68-4ca3-9c1a-aa6715ae93dc",
+  "Active": true,
+  "Name": "Präzisionskanone (30x220mm)",
+  "Description": "",
+  "Rules": null,
+  "Weight": 90.0,
+  "Points": 500,
+  "WK": 4,
+  "Type": 1,
+  "Potential": 7,
+  "Substance": 5,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 3
+  },
+  "DamageEffectList": [
+    {
+      "Type": 12
+    }
+  ],
+  "WeaponRange": {
+    "Length": 60,
+    "Amount": 4
+  },
+  "UseOnce": false
+}

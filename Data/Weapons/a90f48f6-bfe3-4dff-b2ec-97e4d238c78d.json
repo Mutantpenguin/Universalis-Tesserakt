@@ -1,0 +1,35 @@
+{
+  "ID": "a90f48f6-bfe3-4dff-b2ec-97e4d238c78d",
+  "Active": true,
+  "Name": "Zyklops Beam",
+  "Description": "",
+  "Rules": null,
+  "Weight": 50.0,
+  "Points": 600,
+  "WK": 3,
+  "Type": 1,
+  "Potential": 6,
+  "Substance": 5,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 4,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 2
+    },
+    {
+      "Type": 7
+    },
+    {
+      "Type": 17
+    }
+  ],
+  "WeaponRange": {
+    "Length": 50,
+    "Amount": 4
+  },
+  "UseOnce": false
+}

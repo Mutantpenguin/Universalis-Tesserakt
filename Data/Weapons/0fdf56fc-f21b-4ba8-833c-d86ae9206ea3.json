@@ -1,0 +1,32 @@
+{
+  "ID": "0fdf56fc-f21b-4ba8-833c-d86ae9206ea3",
+  "Active": true,
+  "Name": "E-Werfer (Strahlkreuzung)",
+  "Description": "",
+  "Rules": null,
+  "Weight": 0.0,
+  "Points": 100,
+  "WK": 3,
+  "Type": 1,
+  "Potential": 6,
+  "Substance": 5,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 4,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 3
+    },
+    {
+      "Type": 17
+    }
+  ],
+  "WeaponRange": {
+    "Length": 15,
+    "Amount": 3
+  },
+  "UseOnce": true
+}

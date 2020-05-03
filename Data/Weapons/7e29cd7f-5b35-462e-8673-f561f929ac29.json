@@ -1,0 +1,29 @@
+{
+  "ID": "7e29cd7f-5b35-462e-8673-f561f929ac29",
+  "Active": true,
+  "Name": "Gesegnete Klauen",
+  "Description": "",
+  "Rules": null,
+  "Weight": 12.0,
+  "Points": 300,
+  "WK": 1,
+  "Type": 2,
+  "Potential": 6,
+  "Substance": 4,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 3,
+    "Level": 2
+  },
+  "DamageEffectList": [
+    {
+      "Type": 10
+    }
+  ],
+  "WeaponRange": {
+    "Length": 0,
+    "Amount": 0
+  },
+  "UseOnce": false
+}

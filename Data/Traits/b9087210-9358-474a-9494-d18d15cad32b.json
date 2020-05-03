@@ -1,0 +1,22 @@
+{
+  "ID": "b9087210-9358-474a-9494-d18d15cad32b",
+  "Active": true,
+  "Name": "Nahkampfspezialist",
+  "Description": "",
+  "Rules": "Das Modell erhält +[LVL]W12 für Nahkampfwürfe.\r\nDer Nahkampfgegner kann dazu gezwungen werden, [LVL]W12 seines Nahkampfwurfs neu zu würfeln.\r\nKann im Nahkampf mit MIKe die Strukturzone frei auswählen.",
+  "Type": "+",
+  "TraitLevelList": [
+    {
+      "Level": 1,
+      "Points": 20
+    },
+    {
+      "Level": 2,
+      "Points": 40
+    },
+    {
+      "Level": 3,
+      "Points": 60
+    }
+  ]
+}

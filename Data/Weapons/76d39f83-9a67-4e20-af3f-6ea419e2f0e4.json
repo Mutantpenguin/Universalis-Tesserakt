@@ -1,0 +1,29 @@
+{
+  "ID": "76d39f83-9a67-4e20-af3f-6ea419e2f0e4",
+  "Active": true,
+  "Name": "Elektrofaust (Zapper)",
+  "Description": "",
+  "Rules": null,
+  "Weight": 5.0,
+  "Points": 150,
+  "WK": 1,
+  "Type": 2,
+  "Potential": 5,
+  "Substance": 3,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 2,
+    "Level": 1
+  },
+  "DamageEffectList": [
+    {
+      "Type": 3
+    }
+  ],
+  "WeaponRange": {
+    "Length": 0,
+    "Amount": 0
+  },
+  "UseOnce": false
+}

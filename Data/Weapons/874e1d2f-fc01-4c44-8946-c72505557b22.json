@@ -1,0 +1,29 @@
+{
+  "ID": "874e1d2f-fc01-4c44-8946-c72505557b22",
+  "Active": true,
+  "Name": "Unterlaufgranatwerfer (AM)",
+  "Description": "",
+  "Rules": "",
+  "Weight": 1.0,
+  "Points": 100,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 5,
+  "Substance": 4,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 1
+  },
+  "DamageEffectList": [
+    {
+      "Type": 17
+    }
+  ],
+  "WeaponRange": {
+    "Length": 15,
+    "Amount": 3
+  },
+  "UseOnce": true
+}

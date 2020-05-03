@@ -1,0 +1,50 @@
+{
+  "ID": "8ab4cb7c-c711-4d09-bdb6-ca82b544dc7b",
+  "Active": true,
+  "Name": "Rinaldiumpanzeranzug Typ III",
+  "Description": "",
+  "Rules": "",
+  "Points": 150,
+  "Weight": 160.0,
+  "AttributeModifier": {
+    "AGI": -1,
+    "BW": 1,
+    "KK": 1,
+    "HAK": 1,
+    "AFG": 0,
+    "SH": 0
+  },
+  "Potential": 6,
+  "Camouflage": 0,
+  "CamouflageLevel": 0,
+  "DamageTypeList": [
+    {
+      "Type": 3,
+      "Level": 1
+    },
+    {
+      "Type": 4,
+      "Level": 1
+    },
+    {
+      "Type": 2,
+      "Level": 1
+    },
+    {
+      "Type": 1,
+      "Level": 3
+    }
+  ],
+  "DamageEffectList": [
+    {
+      "Type": 7
+    },
+    {
+      "Type": 12
+    },
+    {
+      "Type": 1
+    }
+  ],
+  "SelfSustaining": true
+}

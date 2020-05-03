@@ -1,0 +1,36 @@
+{
+  "ID": "f51c9cca-dbee-45d0-aaeb-c25ff16df688",
+  "Active": true,
+  "Name": "Infiltrationsanzug HYDRA",
+  "Description": "Vollgestopft mit der neuesten Generation des Hyper M leichtservopanzer, welcher nicht nur sehr leicht ist sondern auch noch aktiv die Kraftuntersützung verbessert. Ebenfalls sind zahlreiche Gefechtsanalysesysteme in diesem Anzug eingebaut. Der aktive Schutzmodus mit hervorragender lichtumlenkung ist auf einem der höchsten LEvel.",
+  "Rules": "",
+  "Points": 350,
+  "Weight": 18.0,
+  "AttributeModifier": {
+    "AGI": 1,
+    "BW": 1,
+    "KK": 1,
+    "HAK": 0,
+    "AFG": 1,
+    "SH": 0
+  },
+  "Potential": 4,
+  "Camouflage": 2,
+  "CamouflageLevel": 3,
+  "DamageTypeList": [
+    {
+      "Type": 1,
+      "Level": 1
+    },
+    {
+      "Type": 3,
+      "Level": 1
+    }
+  ],
+  "DamageEffectList": [
+    {
+      "Type": 4
+    }
+  ],
+  "SelfSustaining": true
+}

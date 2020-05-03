@@ -1,0 +1,43 @@
+{
+  "ID": "4fd6d2ec-bc77-44c8-a609-55d2b09ce30d",
+  "Active": true,
+  "Name": "NANO Verbund Platten XL700",
+  "Description": "",
+  "Rules": null,
+  "Points": 350,
+  "Weight": 300.0,
+  "AttributeModifier": null,
+  "Potential": 6,
+  "Camouflage": 0,
+  "CamouflageLevel": 0,
+  "DamageTypeList": [
+    {
+      "Type": 1,
+      "Level": 2
+    },
+    {
+      "Type": 3,
+      "Level": 2
+    },
+    {
+      "Type": 2,
+      "Level": 1
+    },
+    {
+      "Type": 4,
+      "Level": 1
+    }
+  ],
+  "DamageEffectList": [
+    {
+      "Type": 17
+    },
+    {
+      "Type": 11
+    },
+    {
+      "Type": 7
+    }
+  ],
+  "SelfSustaining": true
+}

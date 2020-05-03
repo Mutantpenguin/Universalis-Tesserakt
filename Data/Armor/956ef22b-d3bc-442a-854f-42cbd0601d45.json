@@ -1,0 +1,29 @@
+{
+  "ID": "956ef22b-d3bc-442a-854f-42cbd0601d45",
+  "Active": true,
+  "Name": "Splitterhaut",
+  "Description": "",
+  "Rules": "",
+  "Points": 0,
+  "Weight": 10.0,
+  "AttributeModifier": null,
+  "Potential": 5,
+  "Camouflage": 0,
+  "CamouflageLevel": 0,
+  "DamageTypeList": [
+    {
+      "Type": 3,
+      "Level": 1
+    },
+    {
+      "Type": 1,
+      "Level": 1
+    },
+    {
+      "Type": 4,
+      "Level": 3
+    }
+  ],
+  "DamageEffectList": [],
+  "SelfSustaining": true
+}

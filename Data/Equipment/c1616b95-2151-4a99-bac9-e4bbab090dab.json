@@ -1,0 +1,18 @@
+{
+  "ID": "c1616b95-2151-4a99-bac9-e4bbab090dab",
+  "Active": true,
+  "Name": "Verstärktes Knochenskelett",
+  "Description": "",
+  "Rules": "",
+  "Points": 30,
+  "Weight": 1.0,
+  "UseOnce": false,
+  "AttributeModifier": {
+    "AGI": 0,
+    "BW": 0,
+    "KK": 1,
+    "HAK": 0,
+    "AFG": 0,
+    "SH": 0
+  }
+}

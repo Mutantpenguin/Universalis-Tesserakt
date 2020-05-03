@@ -1,0 +1,18 @@
+{
+  "ID": "d177b546-378c-4db8-bab6-21ef2eab0777",
+  "Active": true,
+  "Name": "Gehirn-Reaktionsverbesserung",
+  "Description": "",
+  "Rules": null,
+  "Points": 150,
+  "Weight": 0.5,
+  "UseOnce": false,
+  "AttributeModifier": {
+    "AGI": 2,
+    "BW": 0,
+    "KK": 0,
+    "HAK": 0,
+    "AFG": 0,
+    "SH": 0
+  }
+}

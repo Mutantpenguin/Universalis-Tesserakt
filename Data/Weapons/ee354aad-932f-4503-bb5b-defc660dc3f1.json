@@ -1,0 +1,29 @@
+{
+  "ID": "ee354aad-932f-4503-bb5b-defc660dc3f1",
+  "Active": true,
+  "Name": "Infiltrator-Pistole THANATOS",
+  "Description": "",
+  "Rules": null,
+  "Weight": 0.9,
+  "Points": 150,
+  "WK": 1,
+  "Type": 1,
+  "Potential": 4,
+  "Substance": 2,
+  "AF": 2,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 1
+  },
+  "DamageEffectList": [
+    {
+      "Type": 15
+    }
+  ],
+  "WeaponRange": {
+    "Length": 15,
+    "Amount": 3
+  },
+  "UseOnce": false
+}

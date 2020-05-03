@@ -1,0 +1,29 @@
+{
+  "ID": "d569af37-c8fa-4e4b-baf8-133ad24ba816",
+  "Active": true,
+  "Name": "Railkanone ML600",
+  "Description": "",
+  "Rules": null,
+  "Weight": 25.0,
+  "Points": 300,
+  "WK": 3,
+  "Type": 1,
+  "Potential": 6,
+  "Substance": 4,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 3
+  },
+  "DamageEffectList": [
+    {
+      "Type": 13
+    }
+  ],
+  "WeaponRange": {
+    "Length": 40,
+    "Amount": 4
+  },
+  "UseOnce": false
+}

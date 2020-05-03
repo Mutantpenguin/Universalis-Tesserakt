@@ -1,0 +1,25 @@
+{
+  "ID": "77b397f4-8dcc-4ddb-8385-8117185d4350",
+  "Active": true,
+  "Name": "AK-15",
+  "Description": "",
+  "Rules": "",
+  "Weight": 4.3,
+  "Points": 200,
+  "WK": 2,
+  "Type": 1,
+  "Potential": 4,
+  "Substance": 3,
+  "AF": 2,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 1,
+    "Level": 2
+  },
+  "DamageEffectList": [],
+  "WeaponRange": {
+    "Length": 30,
+    "Amount": 4
+  },
+  "UseOnce": false
+}

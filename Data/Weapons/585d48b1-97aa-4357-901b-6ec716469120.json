@@ -1,0 +1,32 @@
+{
+  "ID": "585d48b1-97aa-4357-901b-6ec716469120",
+  "Active": true,
+  "Name": "Kraken Kampfmesser",
+  "Description": "",
+  "Rules": null,
+  "Weight": 0.3,
+  "Points": 100,
+  "WK": 1,
+  "Type": 2,
+  "Potential": 3,
+  "Substance": 2,
+  "AF": 0,
+  "Radius": 0,
+  "DamageType": {
+    "Type": 3,
+    "Level": 1
+  },
+  "DamageEffectList": [
+    {
+      "Type": 8
+    },
+    {
+      "Type": 7
+    }
+  ],
+  "WeaponRange": {
+    "Length": 0,
+    "Amount": 0
+  },
+  "UseOnce": false
+}

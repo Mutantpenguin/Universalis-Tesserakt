@@ -1,0 +1,43 @@
+{
+  "ID": "f9f7282b-695c-413e-862e-7c4de0d01423",
+  "Active": true,
+  "Name": "Alienpanzer III",
+  "Description": "",
+  "Rules": null,
+  "Points": 300,
+  "Weight": 20.0,
+  "AttributeModifier": null,
+  "Potential": 6,
+  "Camouflage": 0,
+  "CamouflageLevel": 0,
+  "DamageTypeList": [
+    {
+      "Type": 4,
+      "Level": 1
+    },
+    {
+      "Type": 2,
+      "Level": 1
+    },
+    {
+      "Type": 1,
+      "Level": 3
+    },
+    {
+      "Type": 3,
+      "Level": 2
+    }
+  ],
+  "DamageEffectList": [
+    {
+      "Type": 7
+    },
+    {
+      "Type": 5
+    },
+    {
+      "Type": 1
+    }
+  ],
+  "SelfSustaining": false
+}
