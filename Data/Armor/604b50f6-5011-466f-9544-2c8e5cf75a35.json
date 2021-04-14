@@ -1,20 +1,20 @@
 {
   "ID": "604b50f6-5011-466f-9544-2c8e5cf75a35",
-  "Active": true,
   "Name": "Alienpanzer II",
   "Description": "",
   "Rules": null,
-  "Points": 200,
+  "AdditionalPoints": 0,
   "Weight": 10.0,
   "AttributeModifier": {
     "AGI": 0,
     "BW": 0,
-    "KK": 1,
-    "HAK": 0,
-    "AFG": 0,
-    "SH": 0
+    "KO": 0,
+    "NK": 0,
+    "FK": 0,
+    "WN": 0,
+    "EH": 0
   },
-  "Potential": 5,
+  "Protection": 2,
   "Camouflage": 0,
   "CamouflageLevel": 0,
   "DamageTypeList": [
