@@ -1,5 +1,7 @@
 {
 	"Name"	:	"Tesserakt",
 	
-	"Description"	:	""
+	"Description"	:	"",
+
+	"Version" : "0.0.1"
 }
