@@ -6,5 +6,57 @@
 
 	"version" : "0.0.3",
 
-	"id" : "084c662e-dbcc-486c-8343-dc718c2222f3"
+	"id" : "084c662e-dbcc-486c-8343-dc718c2222f3",
+
+	"costs": {
+		"Attributes": {
+		  "AGI": 15,
+		  "HTH": 10,
+		  "LRC": 10,
+		  "PHY": 15,
+		  "AWA": 10,
+		  "DET": 10,
+		},
+		"Profiles": {
+		  "Speed": 10,
+		  "HitPoints": 15,
+		  "CritThreshold": 20
+		},
+		"Modifier": {
+		  "Surcharge": 1.2
+		},
+		"Movement": {
+		  "Hover": 100,
+		  "Fly": 80,
+		  "Walk": 50,
+		  "Tracks": 70,
+		  "Wheels": 70,
+		  "Stationary": 0
+		},
+		"Weapons": {
+		  "Strength": 10,
+		  "Damage": 20,
+		  "DamageTypeLevelMultiplicator": 1.4,
+		  "UseOnceMultiplicator": 0.35,
+		  "UnwieldyMultiplicator": 0.8,
+		  "ReloadMultiplicator": 0.7,
+		  "IndirectFireMultiplicator": 1.4,
+		  "DamageEffectMultiplicator": 1.1,
+		  "SustainedFireMultiplicator": 1.1,
+		  "AdditiveStrengthMultiplicator": 1.2
+		},
+		"Armors": {
+		  "Protection": 10,
+		  "DamageTypeLevelMultiplicator": 1.3,
+		  "DamageEffectMultiplicator": 1.1,
+		  "SelfSustainingMultiplicator": 1.3,
+		  "AdditiveProtectionMultiplicator": 1.2
+		},
+		"Equipment": {
+		  "UseOnceMultiplicator": 0.35,
+		  "UnwieldyMultiplicator": 0.8
+		},
+		"Traits": {
+		  "UseOnceMultiplicator": 0.35
+		}
 }
