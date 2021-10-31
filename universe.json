@@ -41,6 +41,7 @@
 		},
 		"Armors": {
 			"Protection": 10,
+			"DamageReduction": 50,
 			"DamageEffectMultiplicator": 1.1,
 			"SelfSustainingMultiplicator": 1.3,
 			"AdditiveProtectionMultiplicator": 1.2
