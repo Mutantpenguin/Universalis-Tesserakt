@@ -1,0 +1,12 @@
+{
+  "ID": "c84baa15-0e29-438e-adec-6561cdc71ddf",
+  "Active": true,
+  "Name": "Selbstverzehrung",
+  "Description": "",
+  "Rules": "Pro ausgegebenem Trefferpunkt erhält das Modell [LVL] AP.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 3,
+  "ProfileModifier": null
+}

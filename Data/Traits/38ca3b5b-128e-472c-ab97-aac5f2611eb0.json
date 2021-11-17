@@ -1,0 +1,12 @@
+{
+  "ID": "38ca3b5b-128e-472c-ab97-aac5f2611eb0",
+  "Active": true,
+  "Name": "Agil",
+  "Description": "",
+  "Rules": "Ignoriert die Nachteile von unhandlich Waffen und Ausrüstungsgegenständen im Nahkampf.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 1,
+  "ProfileModifier": null
+}

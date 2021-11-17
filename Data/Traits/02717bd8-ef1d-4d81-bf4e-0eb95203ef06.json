@@ -1,0 +1,12 @@
+{
+  "ID": "02717bd8-ef1d-4d81-bf4e-0eb95203ef06",
+  "Active": true,
+  "Name": "Adlerauge",
+  "Description": "",
+  "Rules": "Bei der Aktion \"Gezielter Schuss\" bekommt das Modell einen weiteren Bonus von +1 auf seinen FK-Wurf.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 1,
+  "ProfileModifier": null
+}

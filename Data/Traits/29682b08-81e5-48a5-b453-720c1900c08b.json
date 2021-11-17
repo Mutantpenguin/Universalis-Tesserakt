@@ -1,0 +1,12 @@
+{
+  "ID": "29682b08-81e5-48a5-b453-720c1900c08b",
+  "Active": true,
+  "Name": "Bewährter Fernkämpfer",
+  "Description": "",
+  "Rules": "Das Modell darf [LVL] mal seinen Fernkampfwurf neu würfeln.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 3,
+  "ProfileModifier": null
+}

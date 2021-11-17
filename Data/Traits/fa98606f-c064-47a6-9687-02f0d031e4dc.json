@@ -1,0 +1,12 @@
+{
+  "ID": "fa98606f-c064-47a6-9687-02f0d031e4dc",
+  "Active": true,
+  "Name": "Automaton",
+  "Description": "",
+  "Rules": "Besteht automatisch jeden EH-Test.\r\n\r\nWenn das Modell ausgeschalten wird explodiert es mit einem Radius in Höhe der KO. Der Schadenstyp ist Schlag in Stufe 2 und die Stärke entspricht der Konstitution. Der Schaden liegt bei KO geteilt durch 2 (abgerundet). Zusätzlich wirkt der Schadenseffekt „Explosiv“.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 1,
+  "ProfileModifier": null
+}

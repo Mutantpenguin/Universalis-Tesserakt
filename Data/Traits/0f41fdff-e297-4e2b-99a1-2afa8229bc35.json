@@ -1,0 +1,12 @@
+{
+  "ID": "0f41fdff-e297-4e2b-99a1-2afa8229bc35",
+  "Active": true,
+  "Name": "Gecko",
+  "Description": "",
+  "Rules": "Kann sich auch vertikal an Geländeteilen entlang bewegen.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 1,
+  "ProfileModifier": null
+}

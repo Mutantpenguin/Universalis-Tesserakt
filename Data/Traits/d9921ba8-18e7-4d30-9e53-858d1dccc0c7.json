@@ -1,0 +1,12 @@
+{
+  "ID": "d9921ba8-18e7-4d30-9e53-858d1dccc0c7",
+  "Active": true,
+  "Name": "Flink",
+  "Description": "",
+  "Rules": "Kann im Nahkampf nicht durch unhandliche Waffen getroffen werden.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 1,
+  "ProfileModifier": null
+}

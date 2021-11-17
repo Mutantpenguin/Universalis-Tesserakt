@@ -1,0 +1,12 @@
+{
+  "ID": "df5fe809-f4cf-438d-8f12-b8a09e082d77",
+  "Active": true,
+  "Name": "Revolverheld",
+  "Description": "",
+  "Rules": "Kann mit einer Aktion gleichzeitig 2 Waffen der Klasse I abfeuern.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 1,
+  "ProfileModifier": null
+}

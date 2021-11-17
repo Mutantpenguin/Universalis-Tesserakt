@@ -1,0 +1,12 @@
+{
+  "ID": "55dbcf93-8bbf-476d-9a65-b0df48e35c7f",
+  "Active": true,
+  "Name": "Regeneration",
+  "Description": "",
+  "Rules": "Zum Beginn jeder Initiativephase des Modells werden seine Trefferpunkte wieder um [LVL] Punkte aufgefüllt.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 5,
+  "ProfileModifier": null
+}

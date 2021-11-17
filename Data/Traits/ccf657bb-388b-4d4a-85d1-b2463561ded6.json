@@ -1,0 +1,12 @@
+{
+  "ID": "ccf657bb-388b-4d4a-85d1-b2463561ded6",
+  "Active": true,
+  "Name": "Stabil",
+  "Description": "",
+  "Rules": "Für jeden erlittenen Schock muss ein KO-Wurf abgelegt werden.\r\nWenn er gelingt hat der Schock keinen Effekt.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 1,
+  "ProfileModifier": null
+}

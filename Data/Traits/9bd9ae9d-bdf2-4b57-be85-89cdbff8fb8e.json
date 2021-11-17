@@ -1,0 +1,12 @@
+{
+  "ID": "9bd9ae9d-bdf2-4b57-be85-89cdbff8fb8e",
+  "Active": true,
+  "Name": "Bluter",
+  "Description": "",
+  "Rules": "Jeder erlittene Schaden wird um [LVL] erhöht.",
+  "AdditionalPoints": -1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 3,
+  "ProfileModifier": null
+}

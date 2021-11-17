@@ -1,0 +1,12 @@
+{
+  "ID": "fdf24f3a-f615-47a4-a929-f64957157f53",
+  "Active": true,
+  "Name": "Glück",
+  "Description": "",
+  "Rules": "Kann pro Runde einmal einen beliebigen eigenen Würfelwurf neu durchführen.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 1,
+  "ProfileModifier": null
+}

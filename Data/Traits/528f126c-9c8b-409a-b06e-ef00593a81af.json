@@ -1,0 +1,12 @@
+{
+  "ID": "528f126c-9c8b-409a-b06e-ef00593a81af",
+  "Active": true,
+  "Name": "Bodenhaftung",
+  "Description": "",
+  "Rules": "Das Modell darf [LVL] mal seinen Bewegungstest neu würfeln.",
+  "AdditionalPoints": 1,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 3,
+  "ProfileModifier": null
+}
