@@ -3,7 +3,7 @@
   "Active": true,
   "Name": "Abgehärtet",
   "Description": "",
-  "Rules": "Im kritischen Zustand erhalten die Attributswürfe keinen Malus von -1.",
+  "Rules": "Im kritischen Zustand erhalten die Attributswürfe keinen Malus von -2.",
   "AdditionalPoints": 1,
   "UseOnce": false,
   "AP": 0,
