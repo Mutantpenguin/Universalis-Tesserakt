@@ -4,7 +4,7 @@
   "Name": "Pech",
   "Description": "",
   "Rules": "Kann pro Runde einmal vom Gegner gezwungen werden einen beliebigen eigenen Würfelwurf neu durchführen.",
-  "AdditionalPoints": -1,
+  "BasePoints": -150,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 1,

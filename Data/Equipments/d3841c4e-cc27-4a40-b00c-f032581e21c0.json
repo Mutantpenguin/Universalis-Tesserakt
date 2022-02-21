@@ -3,7 +3,7 @@
   "Name": "Stimulations-Injektor",
   "Description": "",
   "Rules": "",
-  "AdditionalPoints": 0,
+  "BasePoints": 0,
   "Weight": 0.3,
   "UseOnce": true,
   "AP": 0,

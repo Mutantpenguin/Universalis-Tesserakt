@@ -4,7 +4,7 @@
   "Name": "Zäh",
   "Description": "",
   "Rules": "Jeder erlittene Schaden wird um [LVL] verringert.",
-  "AdditionalPoints": 1,
+  "BasePoints": 60,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 3,

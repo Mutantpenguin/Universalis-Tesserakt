@@ -4,7 +4,7 @@
   "Name": "Nahkampfspezialist",
   "Description": "",
   "Rules": "Der Nahkampfgegner kann [LVL] mal dazu gezwungen werden seinen Nahkampfwurf neu zu würfeln.",
-  "AdditionalPoints": 1,
+  "BasePoints": 80,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 3,

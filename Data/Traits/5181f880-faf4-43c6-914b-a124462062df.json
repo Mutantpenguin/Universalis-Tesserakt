@@ -1,0 +1,12 @@
+{
+  "ID": "5181f880-faf4-43c6-914b-a124462062df",
+  "Active": true,
+  "Name": "Tatkräftig",
+  "Description": "",
+  "Rules": "Darf den vergleichenden Wurf auf AGI zur Feststellung der Reihenfolge innerhalb einer Runde [LVL] mal wiederholen.",
+  "BasePoints": 50,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 2,
+  "ProfileModifier": null
+}

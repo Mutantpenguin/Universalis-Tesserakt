@@ -4,7 +4,7 @@
   "Name": "Gun-Kata",
   "Description": "",
   "Rules": "Schusswaffen der Klasse I dürfen auch im Nahkampf eingesetzt werden.",
-  "AdditionalPoints": 1,
+  "BasePoints": 50,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 1,

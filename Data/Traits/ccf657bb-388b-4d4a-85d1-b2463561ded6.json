@@ -4,7 +4,7 @@
   "Name": "Stabil",
   "Description": "",
   "Rules": "Für jeden erlittenen Schock muss ein KO-Wurf abgelegt werden.\r\nWenn er gelingt hat der Schock keinen Effekt.",
-  "AdditionalPoints": 1,
+  "BasePoints": 40,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 1,

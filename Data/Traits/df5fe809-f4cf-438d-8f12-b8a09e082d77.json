@@ -4,7 +4,7 @@
   "Name": "Revolverheld",
   "Description": "",
   "Rules": "Kann mit einer Aktion gleichzeitig 2 Waffen der Klasse I abfeuern.",
-  "AdditionalPoints": 1,
+  "BasePoints": 200,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 1,

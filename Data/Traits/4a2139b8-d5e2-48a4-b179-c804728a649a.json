@@ -4,7 +4,7 @@
   "Name": "Absolute Regeneration",
   "Description": "",
   "Rules": "Zum Beginn jeder Initiativephase des Modells werden seine Trefferpunkte wieder voll aufgefüllt.",
-  "AdditionalPoints": 1,
+  "BasePoints": 600,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 1,

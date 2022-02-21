@@ -4,7 +4,7 @@
   "Name": "Agil",
   "Description": "",
   "Rules": "Ignoriert die Nachteile von unhandlich Waffen und Ausrüstungsgegenständen im Nahkampf.",
-  "AdditionalPoints": 1,
+  "BasePoints": 200,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 1,

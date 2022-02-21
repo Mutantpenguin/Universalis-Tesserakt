@@ -4,7 +4,7 @@
   "Name": "Geländegängigkeit",
   "Description": "",
   "Rules": "Die Passierbarkeit jedes Geländes wird um [LVL] verbessert.\r\nSie kann dabei nicht besser als 0 werden.",
-  "AdditionalPoints": 1,
+  "BasePoints": 50,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 3,

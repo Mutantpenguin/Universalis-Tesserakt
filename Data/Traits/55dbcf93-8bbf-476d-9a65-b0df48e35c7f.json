@@ -4,7 +4,7 @@
   "Name": "Regeneration",
   "Description": "",
   "Rules": "Zum Beginn jeder Initiativephase des Modells werden seine Trefferpunkte wieder um [LVL] Punkte aufgefüllt.",
-  "AdditionalPoints": 1,
+  "BasePoints": 80,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 5,

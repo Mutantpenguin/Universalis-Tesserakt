@@ -4,7 +4,7 @@
   "Name": "Multitasking",
   "Description": "",
   "Rules": "Dem Modell können (unabhängig von seiner EH) [LVL] zusätzliche Drohnen zugeordnet werden.",
-  "AdditionalPoints": 1,
+  "BasePoints": 40,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 3,

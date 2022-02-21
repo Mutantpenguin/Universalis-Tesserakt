@@ -4,7 +4,7 @@
   "Name": "Selbstverzehrung",
   "Description": "",
   "Rules": "Pro ausgegebenem Trefferpunkt erhält das Modell [LVL] AP.",
-  "AdditionalPoints": 1,
+  "BasePoints": 30,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 3,

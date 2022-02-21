@@ -4,7 +4,7 @@
   "Name": "Bluter",
   "Description": "",
   "Rules": "Jeder erlittene Schaden wird um [LVL] erhöht.",
-  "AdditionalPoints": -1,
+  "BasePoints": -50,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 3,

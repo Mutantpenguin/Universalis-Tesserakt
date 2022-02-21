@@ -4,7 +4,7 @@
   "Name": "David gegen Goliath",
   "Description": "",
   "Rules": "Wenn das Modell als Angreifer von ausserhalb des Sichtfeldes angreift und über ein kleineres Größenprofil verfügt darf es sich bei Kolossen die Trefferzone aussuchen.",
-  "AdditionalPoints": 1,
+  "BasePoints": 40,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 1,

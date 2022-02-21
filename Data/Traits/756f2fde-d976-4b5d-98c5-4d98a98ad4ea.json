@@ -4,7 +4,7 @@
   "Name": "Riposte",
   "Description": "",
   "Rules": "Bekommt bei der Reaktion \"Gegenangriff\" einen Bonus von +2 auf seinen NK-Wurf falls es sich bei dem vorhergehenden Nahkampf erfolgreich verteidigt hat.",
-  "AdditionalPoints": 1,
+  "BasePoints": 80,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 1,

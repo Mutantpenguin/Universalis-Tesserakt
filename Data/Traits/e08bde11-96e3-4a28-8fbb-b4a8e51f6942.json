@@ -4,7 +4,7 @@
   "Name": "Instinktive Steuerung",
   "Description": "",
   "Rules": "Das Modell hat [LVL] zusätzliche AP, die es aber nur für seine Drohnen verwenden darf.",
-  "AdditionalPoints": 1,
+  "BasePoints": 120,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 5,
