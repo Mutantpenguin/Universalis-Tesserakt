@@ -45,13 +45,6 @@
 			"DamageEffectMultiplicator": 1.1,
 			"SelfSustainingMultiplicator": 1.3,
 			"AdditiveProtectionMultiplicator": 1.2
-		},
-		"Equipments": {
-			"UseOnceMultiplicator": 0.35,
-			"UnwieldyMultiplicator": 0.8
-		},
-		"Traits": {
-			"UseOnceMultiplicator": 0.35
 		}
 	}
 }
