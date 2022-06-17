@@ -1,0 +1,13 @@
+{
+  "ID": "b9fa33e2-9764-49eb-a2c9-930984d024a2",
+  "Active": true,
+  "Name": "Instabil",
+  "Description": "",
+  "Rules": "Die Auswahl der Kräfte vor Spielbeginn passiert zufällig.",
+  "BasePoints": -50,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 1,
+  "ProfileModifier": null,
+  "Permissions": null
+}

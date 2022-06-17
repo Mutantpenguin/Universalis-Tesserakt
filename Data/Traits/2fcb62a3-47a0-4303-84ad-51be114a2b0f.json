@@ -1,0 +1,13 @@
+{
+  "ID": "2fcb62a3-47a0-4303-84ad-51be114a2b0f",
+  "Active": true,
+  "Name": "Weitsprung",
+  "Description": "",
+  "Rules": "Beim Springen wird die maximale Reichweite um [LVL] * GK erhöht.",
+  "BasePoints": 100,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 3,
+  "ProfileModifier": null,
+  "Permissions": null
+}
