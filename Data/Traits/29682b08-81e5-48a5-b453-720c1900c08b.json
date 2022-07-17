@@ -3,10 +3,11 @@
   "Active": true,
   "Name": "Bewährter Fernkämpfer",
   "Description": "",
-  "Rules": "Das Modell darf [LVL] mal seinen Fernkampfwurf neu würfeln.",
+  "Rules": "Das Modell darf jeden Fernkampfwurf [LVL] mal neu würfeln.",
   "BasePoints": 50,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 3,
-  "ProfileModifier": null
+  "ProfileModifier": null,
+  "Permissions": null
 }

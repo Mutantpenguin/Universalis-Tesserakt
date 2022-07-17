@@ -3,10 +3,11 @@
   "Active": true,
   "Name": "Bewährter Nahkämpfer",
   "Description": "",
-  "Rules": "Das Modell darf [LVL] mal seinen Nahkampfwurf neu würfeln.",
+  "Rules": "Das Modell darf jeden Nahkampfwurf [LVL] mal neu würfeln.",
   "BasePoints": 50,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 3,
-  "ProfileModifier": null
+  "ProfileModifier": null,
+  "Permissions": null
 }
