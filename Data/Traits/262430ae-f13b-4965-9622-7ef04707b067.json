@@ -3,10 +3,11 @@
   "Active": true,
   "Name": "Geländegängigkeit",
   "Description": "",
-  "Rules": "Die Passierbarkeit jedes Geländes wird um [LVL] verbessert.\r\nSie kann dabei nicht besser als 0 werden.",
+  "Rules": "Ein misslungener Bewegungstest wegen schwieriger Passierbarkeit führt nicht dazu, dass das Modell umfällt.",
   "BasePoints": 50,
   "UseOnce": false,
   "AP": 0,
-  "MaxLevel": 3,
-  "ProfileModifier": null
+  "MaxLevel": 1,
+  "ProfileModifier": null,
+  "Permissions": null
 }
