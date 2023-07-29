@@ -1,0 +1,14 @@
+{
+  "ID": "20b35d12-5a95-42a8-bc0e-a2a6c98851cb",
+  "Active": true,
+  "Name": "Immunität",
+  "Description": "",
+  "MaxGroupQuantity": 0,
+  "Rules": "Schaden durch Gift wird um [LVL] verringert.",
+  "BasePoints": 30,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 5,
+  "ProfileModifier": null,
+  "Permissions": null
+}
