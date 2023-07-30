@@ -1,0 +1,14 @@
+{
+  "ID": "6fef12aa-1d47-46b8-9be6-4929f295fc37",
+  "Active": true,
+  "Name": "Inneres Auge",
+  "Description": "",
+  "MaxGroupQuantity": 0,
+  "Rules": "Beim Blockieren von Kräften muss das Modell keine Sichtlinie zum Ziel haben.",
+  "BasePoints": 100,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 1,
+  "ProfileModifier": null,
+  "Permissions": null
+}

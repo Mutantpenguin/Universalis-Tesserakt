@@ -1,0 +1,14 @@
+{
+  "ID": "885e54fe-6cf1-4fa1-a663-1e1c25fbd17d",
+  "Active": true,
+  "Name": "Ausgeweitetes Blockieren",
+  "Description": "",
+  "MaxGroupQuantity": 0,
+  "Rules": "Der Wahrnehmungsbereich wird zum Blockieren von Kräften verdoppelt.",
+  "BasePoints": 100,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 1,
+  "ProfileModifier": null,
+  "Permissions": null
+}

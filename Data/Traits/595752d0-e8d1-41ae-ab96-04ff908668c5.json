@@ -1,0 +1,14 @@
+{
+  "ID": "595752d0-e8d1-41ae-ab96-04ff908668c5",
+  "Active": true,
+  "Name": "Fokussieren",
+  "Description": "",
+  "MaxGroupQuantity": 0,
+  "Rules": "Das Modell darf jeden Test zum Einsatz oder Blockieren einer Kraft `[LVL]` mal neu würfeln.",
+  "BasePoints": 60,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 3,
+  "ProfileModifier": null,
+  "Permissions": null
+}
