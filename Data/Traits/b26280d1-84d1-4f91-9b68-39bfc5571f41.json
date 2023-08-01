@@ -2,11 +2,14 @@
   "ID": "b26280d1-84d1-4f91-9b68-39bfc5571f41",
   "Active": true,
   "Name": "Zäh",
+  "Group": "Schaden & Verteidigung",
   "Description": "",
+  "MaxGroupQuantity": 0,
   "Rules": "Jeder erlittene Schaden wird um [LVL] verringert.",
   "BasePoints": 60,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 3,
-  "ProfileModifier": null
+  "ProfileModifier": null,
+  "Permissions": null
 }

@@ -2,11 +2,14 @@
   "ID": "50602d78-4585-4973-be01-bccea1c187ed",
   "Active": true,
   "Name": "Anführer",
+  "Group": "Sonstiges",
   "Description": "",
+  "MaxGroupQuantity": 0,
   "Rules": "Das Modell ist der Gruppenführer.\r\n\r\nDarf den vergleichenden Wurf auf EH zur Feststellung der Reihenfolge des Aufstellens der Modelle [LVL] mal wiederholen.",
   "BasePoints": 50,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 3,
-  "ProfileModifier": null
+  "ProfileModifier": null,
+  "Permissions": null
 }

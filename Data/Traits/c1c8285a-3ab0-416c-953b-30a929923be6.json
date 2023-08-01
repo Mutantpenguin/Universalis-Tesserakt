@@ -2,11 +2,14 @@
   "ID": "c1c8285a-3ab0-416c-953b-30a929923be6",
   "Active": true,
   "Name": "Multitasking",
+  "Group": "Drohnen",
   "Description": "",
+  "MaxGroupQuantity": 0,
   "Rules": "Dem Modell können (unabhängig von seiner EH) [LVL] zusätzliche Drohnen zugeordnet werden.",
   "BasePoints": 40,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 3,
-  "ProfileModifier": null
+  "ProfileModifier": null,
+  "Permissions": null
 }

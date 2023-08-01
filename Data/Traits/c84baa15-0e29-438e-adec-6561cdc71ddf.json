@@ -2,11 +2,14 @@
   "ID": "c84baa15-0e29-438e-adec-6561cdc71ddf",
   "Active": true,
   "Name": "Selbstverzehrung",
+  "Group": "Schaden & Verteidigung",
   "Description": "",
+  "MaxGroupQuantity": 0,
   "Rules": "Pro ausgegebenem Trefferpunkt erhält das Modell [LVL] AP.",
   "BasePoints": 30,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 3,
-  "ProfileModifier": null
+  "ProfileModifier": null,
+  "Permissions": null
 }

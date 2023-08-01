@@ -2,11 +2,14 @@
   "ID": "8761b228-a088-47a5-a041-c0d567a5fea7",
   "Active": true,
   "Name": "David gegen Goliath",
+  "Group": "Nahkampf",
   "Description": "",
+  "MaxGroupQuantity": 0,
   "Rules": "Wenn das Modell einen Koloss im Nahkampf angreift und über ein kleineres Größenprofil als der Koloss verfügt darf es sich die Trefferzone aussuchen.",
   "BasePoints": 40,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 1,
-  "ProfileModifier": null
+  "ProfileModifier": null,
+  "Permissions": null
 }

@@ -2,11 +2,14 @@
   "ID": "c4fca24e-096d-4fb9-ad69-06ac28413a2e",
   "Active": true,
   "Name": "Pech",
+  "Group": "Sonstiges",
   "Description": "",
+  "MaxGroupQuantity": 0,
   "Rules": "Kann pro Runde einmal vom Gegner gezwungen werden einen beliebigen eigenen Würfelwurf neu durchführen.",
   "BasePoints": -150,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 1,
-  "ProfileModifier": null
+  "ProfileModifier": null,
+  "Permissions": null
 }

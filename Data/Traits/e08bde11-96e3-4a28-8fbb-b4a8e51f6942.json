@@ -2,11 +2,14 @@
   "ID": "e08bde11-96e3-4a28-8fbb-b4a8e51f6942",
   "Active": true,
   "Name": "Instinktive Steuerung",
+  "Group": "Drohnen",
   "Description": "",
+  "MaxGroupQuantity": 0,
   "Rules": "Das Modell hat [LVL] zusätzliche AP, die es aber nur für seine Drohnen verwenden darf.",
   "BasePoints": 120,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 5,
-  "ProfileModifier": null
+  "ProfileModifier": null,
+  "Permissions": null
 }

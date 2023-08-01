@@ -2,11 +2,14 @@
   "ID": "38ca3b5b-128e-472c-ab97-aac5f2611eb0",
   "Active": true,
   "Name": "Stabiler Stand",
+  "Group": "Nahkampf",
   "Description": "",
+  "MaxGroupQuantity": 0,
   "Rules": "Ignoriert die Nachteile von unhandlichen Waffen und Ausrüstungsgegenständen im Nahkampf.",
   "BasePoints": 200,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 1,
-  "ProfileModifier": null
+  "ProfileModifier": null,
+  "Permissions": null
 }

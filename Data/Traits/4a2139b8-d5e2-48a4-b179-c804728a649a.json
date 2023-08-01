@@ -2,11 +2,14 @@
   "ID": "4a2139b8-d5e2-48a4-b179-c804728a649a",
   "Active": true,
   "Name": "Absolute Regeneration",
+  "Group": "Schaden & Verteidigung",
   "Description": "",
+  "MaxGroupQuantity": 0,
   "Rules": "Zum Beginn jeder Initiativephase des Modells werden seine Trefferpunkte wieder voll aufgefüllt.",
   "BasePoints": 600,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 1,
-  "ProfileModifier": null
+  "ProfileModifier": null,
+  "Permissions": null
 }

@@ -2,11 +2,14 @@
   "ID": "74f6fe5f-02b2-4d6f-a392-82286624749c",
   "Active": true,
   "Name": "Gun-Kata",
+  "Group": "Nahkampf",
   "Description": "",
+  "MaxGroupQuantity": 0,
   "Rules": "Schusswaffen der Klasse I dürfen auch im Nahkampf eingesetzt werden.",
   "BasePoints": 50,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 1,
-  "ProfileModifier": null
+  "ProfileModifier": null,
+  "Permissions": null
 }

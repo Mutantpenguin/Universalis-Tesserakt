@@ -2,6 +2,7 @@
   "ID": "b9fa33e2-9764-49eb-a2c9-930984d024a2",
   "Active": true,
   "Name": "Chaotische Gabe",
+  "Group": "Kräfte",
   "Description": "",
   "MaxGroupQuantity": 0,
   "Rules": "Die Auswahl der Kräfte vor Spielbeginn passiert zufällig.",

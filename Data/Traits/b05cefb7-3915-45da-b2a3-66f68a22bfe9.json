@@ -2,6 +2,7 @@
   "ID": "b05cefb7-3915-45da-b2a3-66f68a22bfe9",
   "Active": true,
   "Name": "Fernwirkung",
+  "Group": "Kräfte",
   "Description": "",
   "MaxGroupQuantity": 0,
   "Rules": "Das Modell kann Kräfte durch Drohnen hindurch wirken als ob es sich an der Position der Drohne befinden würde.",

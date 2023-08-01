@@ -2,11 +2,14 @@
   "ID": "02717bd8-ef1d-4d81-bf4e-0eb95203ef06",
   "Active": true,
   "Name": "Adlerauge",
+  "Group": "Fernkampf",
   "Description": "",
+  "MaxGroupQuantity": 0,
   "Rules": "Bei der Aktion \"Gezielter Schuss\" bekommt das Modell einen weiteren Bonus von +1 auf seinen FK-Wurf.",
   "BasePoints": 100,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 1,
-  "ProfileModifier": null
+  "ProfileModifier": null,
+  "Permissions": null
 }

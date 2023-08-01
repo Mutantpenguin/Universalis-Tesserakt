@@ -2,11 +2,14 @@
   "ID": "569426db-7848-4550-8cc1-764239f3fc33",
   "Active": true,
   "Name": "Abgehärtet",
+  "Group": "Schaden & Verteidigung",
   "Description": "",
+  "MaxGroupQuantity": 0,
   "Rules": "Im kritischen Zustand erhalten die Attributswürfe keinen Malus von -2.",
   "BasePoints": 150,
   "UseOnce": false,
   "AP": 0,
   "MaxLevel": 1,
-  "ProfileModifier": null
+  "ProfileModifier": null,
+  "Permissions": null
 }
