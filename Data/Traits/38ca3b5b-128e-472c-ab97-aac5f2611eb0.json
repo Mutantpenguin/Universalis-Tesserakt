@@ -1,9 +1,9 @@
 {
   "ID": "38ca3b5b-128e-472c-ab97-aac5f2611eb0",
   "Active": true,
-  "Name": "Agil",
+  "Name": "Stabiler Stand",
   "Description": "",
-  "Rules": "Ignoriert die Nachteile von unhandlich Waffen und Ausrüstungsgegenständen im Nahkampf.",
+  "Rules": "Ignoriert die Nachteile von unhandlichen Waffen und Ausrüstungsgegenständen im Nahkampf.",
   "BasePoints": 200,
   "UseOnce": false,
   "AP": 0,
