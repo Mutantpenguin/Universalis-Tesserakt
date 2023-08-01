@@ -1,0 +1,14 @@
+{
+  "ID": "fab53126-676b-4a2b-8264-b0fc0ee77c9a",
+  "Active": true,
+  "Name": "Wendig",
+  "Description": "",
+  "MaxGroupQuantity": 0,
+  "Rules": "Wenn sich das Modell aus dem Nahkampf löst kann der Gegner keinen Gelegenheitsangriff durchführen.",
+  "BasePoints": 40,
+  "UseOnce": false,
+  "AP": 0,
+  "MaxLevel": 1,
+  "ProfileModifier": null,
+  "Permissions": null
+}
