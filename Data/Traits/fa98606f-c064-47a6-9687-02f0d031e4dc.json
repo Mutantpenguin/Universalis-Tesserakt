@@ -5,7 +5,7 @@
   "Group": "Sonstiges",
   "Description": "",
   "MaxGroupQuantity": 0,
-  "Rules": "Besteht automatisch jeden EH-Test.\r\n\r\nWenn das Modell eliminiert wird explodiert es mit einem Radius in Höhe der KO. Der Schadenstyp ist Schlag in Stufe 2 und die Stärke entspricht der Konstitution. Der Schaden liegt bei KO geteilt durch 2 (abgerundet). Zusätzlich wirkt der Schadenseffekt „Explosiv“.",
+  "Rules": "Besteht automatisch jeden Paniktest.\r\n\r\nWenn das Modell eliminiert wird explodiert es. Radius und Stärke entsprechen der KO. Der Schaden liegt bei KO geteilt durch 2 (abgerundet). Zusätzlich wirkt der Schadenseffekt „Explosiv“.",
   "BasePoints": 50,
   "UseOnce": false,
   "AP": 0,
