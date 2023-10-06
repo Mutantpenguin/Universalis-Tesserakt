@@ -5,7 +5,7 @@
   "Group": "Drohnen",
   "Description": "",
   "MaxGroupQuantity": 0,
-  "Rules": "Dem Modell können (unabhängig von seiner EH) [LVL] zusätzliche Drohnen zugeordnet werden.",
+  "Rules": "Dem Modell können [LVL] Drohnen zugeordnet werden.",
   "BasePoints": 40,
   "UseOnce": false,
   "AP": 0,
